@@ -1,0 +1,1001 @@
+ID_Transaccion,Fecha,Unidad_Negocio,Canal,Monto_SAP,Monto_Synapse,Diferencia,Estatus_Conciliacion,Fecha_Despacho,Fecha_Entrega,Lead_Time_Dias,Alerta_Politica_37
+TX-100000,2026-10-07,Savory,Wholesale,1016.17,1016.17,0.0,Conciliado,2026-10-07,2026-10-17,10,Dentro de Política
+TX-100001,2026-10-20,Savory,DTS,13142.97,13142.97,0.0,Conciliado,2026-10-20,2026-11-03,14,Excede Lead Time Máximo
+TX-100002,2026-10-29,Biscuits,Wholesale,13405.31,13405.31,0.0,Conciliado,2026-10-29,2026-11-03,5,Dentro de Política
+TX-100003,2026-10-15,Savory,Away From Home,3928.09,3928.09,0.0,Conciliado,2026-10-15,2026-10-16,1,Dentro de Política
+TX-100004,2026-10-11,Biscuits,DTS,48011.41,48011.41,0.0,Conciliado,2026-10-11,2026-10-13,2,Dentro de Política
+TX-100005,2026-10-08,Savory,Away From Home,24173.64,24173.64,0.0,Conciliado,2026-10-08,2026-10-20,12,Excede Lead Time Máximo
+TX-100006,2026-10-29,Foods,Organized Trade,44842.82,44842.82,0.0,Conciliado,2026-10-29,2026-11-11,13,Excede Lead Time Máximo
+TX-100007,2026-10-21,Savory,DTS,16449.67,16449.67,0.0,Conciliado,2026-10-21,2026-10-31,10,Dentro de Política
+TX-100008,2026-10-07,Savory,Away From Home,6699.06,6699.06,0.0,Conciliado,2026-10-07,2026-10-21,14,Excede Lead Time Máximo
+TX-100009,2026-10-26,C&NB,Organized Trade,23979.64,23979.64,0.0,Conciliado,2026-10-26,2026-10-27,1,Dentro de Política
+TX-100010,2026-10-19,Biscuits,Wholesale,6140.85,6140.85,0.0,Conciliado,2026-10-19,2026-11-02,14,Excede Lead Time Máximo
+TX-100011,2026-10-23,Savory,Organized Trade,24557.77,24557.77,0.0,Conciliado,2026-10-23,2026-10-25,2,Dentro de Política
+TX-100012,2026-10-11,Savory,C-Stores,46054.71,46054.71,0.0,Conciliado,2026-10-11,2026-10-22,11,Excede Lead Time Máximo
+TX-100013,2026-10-11,C&NB,Organized Trade,26278.02,26278.02,0.0,Conciliado,2026-10-11,2026-10-20,9,Dentro de Política
+TX-100014,2026-10-24,C&NB,Organized Trade,31016.74,31016.74,0.0,Conciliado,2026-10-24,2026-11-03,10,Dentro de Política
+TX-100015,2026-10-21,Biscuits,C-Stores,8253.6,8253.6,0.0,Conciliado,2026-10-21,2026-10-22,1,Dentro de Política
+TX-100016,2026-10-04,C&NB,Away From Home,2664.91,2664.91,0.0,Conciliado,2026-10-04,2026-10-15,11,Excede Lead Time Máximo
+TX-100017,2026-10-08,Foods,Away From Home,5984.99,5984.99,0.0,Conciliado,2026-10-08,2026-10-17,9,Dentro de Política
+TX-100018,2026-10-24,C&NB,Organized Trade,30127.31,30127.31,0.0,Conciliado,2026-10-24,2026-10-31,7,Dentro de Política
+TX-100019,2026-10-03,Foods,C-Stores,5203.08,5203.08,0.0,Conciliado,2026-10-03,2026-10-08,5,Dentro de Política
+TX-100020,2026-10-22,Biscuits,C-Stores,19111.65,19111.65,0.0,Conciliado,2026-10-22,2026-10-26,4,Dentro de Política
+TX-100021,2026-10-21,Biscuits,Wholesale,27729.55,27729.55,0.0,Conciliado,2026-10-21,2026-10-22,1,Dentro de Política
+TX-100022,2026-10-02,Biscuits,Away From Home,19738.31,19738.31,0.0,Conciliado,2026-10-02,2026-10-07,5,Dentro de Política
+TX-100023,2026-10-24,Biscuits,DTS,8602.35,8602.35,0.0,Conciliado,2026-10-24,2026-11-05,12,Excede Lead Time Máximo
+TX-100024,2026-10-12,Biscuits,Away From Home,14052.67,14052.67,0.0,Conciliado,2026-10-12,2026-10-19,7,Dentro de Política
+TX-100025,2026-10-30,Foods,Away From Home,46451.72,46451.72,0.0,Conciliado,2026-10-30,2026-11-08,9,Dentro de Política
+TX-100026,2026-10-06,Foods,Wholesale,33961.12,33961.12,0.0,Conciliado,2026-10-06,2026-10-18,12,Excede Lead Time Máximo
+TX-100027,2026-10-02,Biscuits,DTS,25054.37,25054.37,0.0,Conciliado,2026-10-02,2026-10-13,11,Excede Lead Time Máximo
+TX-100028,2026-10-28,C&NB,Wholesale,1129.39,1129.39,0.0,Conciliado,2026-10-28,2026-11-12,15,Excede Lead Time Máximo
+TX-100029,2026-10-21,Savory,DTS,49624.56,49624.56,0.0,Conciliado,2026-10-21,2026-10-23,2,Dentro de Política
+TX-100030,2026-10-01,Biscuits,Organized Trade,33737.02,33737.02,0.0,Conciliado,2026-10-01,2026-10-10,9,Dentro de Política
+TX-100031,2026-10-12,C&NB,DTS,16187.66,16187.66,0.0,Conciliado,2026-10-12,2026-10-17,5,Dentro de Política
+TX-100032,2026-10-26,Savory,Wholesale,44023.8,44023.8,0.0,Conciliado,2026-10-26,2026-11-10,15,Excede Lead Time Máximo
+TX-100033,2026-10-22,Biscuits,Away From Home,13292.37,13956.988500000001,-664.62,Diferencia de Monto,2026-10-22,2026-10-24,2,Dentro de Política
+TX-100034,2026-10-29,Biscuits,DTS,27428.82,27428.82,0.0,Conciliado,2026-10-29,2026-11-02,4,Dentro de Política
+TX-100035,2026-10-12,Foods,DTS,31985.5,31985.5,0.0,Conciliado,2026-10-12,2026-10-19,7,Dentro de Política
+TX-100036,2026-10-25,Savory,C-Stores,11442.64,11442.64,0.0,Conciliado,2026-10-25,2026-11-08,14,Excede Lead Time Máximo
+TX-100037,2026-10-17,Savory,Away From Home,48930.67,48930.67,0.0,Conciliado,2026-10-17,2026-10-23,6,Dentro de Política
+TX-100038,2026-10-27,C&NB,Organized Trade,37535.5,37535.5,0.0,Conciliado,2026-10-27,2026-11-10,14,Excede Lead Time Máximo
+TX-100039,2026-10-27,Foods,Wholesale,28111.75,28111.75,0.0,Conciliado,2026-10-27,2026-10-31,4,Dentro de Política
+TX-100040,2026-10-10,Foods,Organized Trade,9439.43,9439.43,0.0,Conciliado,2026-10-10,2026-10-20,10,Dentro de Política
+TX-100041,2026-10-28,Foods,Away From Home,3165.98,3165.98,0.0,Conciliado,2026-10-28,2026-11-12,15,Excede Lead Time Máximo
+TX-100042,2026-10-28,Foods,DTS,16342.96,16342.96,0.0,Conciliado,2026-10-28,2026-11-11,14,Excede Lead Time Máximo
+TX-100043,2026-10-16,Savory,DTS,37782.77,37782.77,0.0,Conciliado,2026-10-16,2026-10-29,13,Excede Lead Time Máximo
+TX-100044,2026-10-15,Savory,Away From Home,13831.9,13831.9,0.0,Conciliado,2026-10-15,2026-10-22,7,Dentro de Política
+TX-100045,2026-10-30,Biscuits,DTS,27208.03,27208.03,0.0,Conciliado,2026-10-30,2026-11-14,15,Excede Lead Time Máximo
+TX-100046,2026-10-30,Biscuits,DTS,36533.39,36533.39,0.0,Conciliado,2026-10-30,2026-11-14,15,Excede Lead Time Máximo
+TX-100047,2026-10-15,Foods,DTS,5843.21,5843.21,0.0,Conciliado,2026-10-15,2026-10-25,10,Dentro de Política
+TX-100048,2026-10-30,Foods,Wholesale,34422.25,34422.25,0.0,Conciliado,2026-10-30,2026-11-12,13,Excede Lead Time Máximo
+TX-100049,2026-10-19,Foods,Wholesale,5047.61,5047.61,0.0,Conciliado,2026-10-19,2026-10-21,2,Dentro de Política
+TX-100050,2026-10-12,Biscuits,C-Stores,48273.92,48273.92,0.0,Conciliado,2026-10-12,2026-10-22,10,Dentro de Política
+TX-100051,2026-10-23,C&NB,Organized Trade,24675.51,24675.51,0.0,Conciliado,2026-10-23,2026-10-28,5,Dentro de Política
+TX-100052,2026-10-20,C&NB,Away From Home,7958.47,7958.47,0.0,Conciliado,2026-10-20,2026-11-01,12,Excede Lead Time Máximo
+TX-100053,2026-10-25,Biscuits,Away From Home,17447.99,17447.99,0.0,Conciliado,2026-10-25,2026-10-28,3,Dentro de Política
+TX-100054,2026-10-03,Biscuits,Away From Home,20964.11,20964.11,0.0,Conciliado,2026-10-03,2026-10-17,14,Excede Lead Time Máximo
+TX-100055,2026-10-05,Biscuits,C-Stores,38030.16,38030.16,0.0,Conciliado,2026-10-05,2026-10-19,14,Excede Lead Time Máximo
+TX-100056,2026-10-19,Biscuits,Wholesale,37299.48,37299.48,0.0,Conciliado,2026-10-19,2026-10-26,7,Dentro de Política
+TX-100057,2026-10-07,Biscuits,C-Stores,30791.06,30791.06,0.0,Conciliado,2026-10-07,2026-10-15,8,Dentro de Política
+TX-100058,2026-10-21,Biscuits,Away From Home,5743.57,5743.57,0.0,Conciliado,2026-10-21,2026-11-05,15,Excede Lead Time Máximo
+TX-100059,2026-10-09,Foods,Organized Trade,8002.68,8002.68,0.0,Conciliado,2026-10-09,2026-10-18,9,Dentro de Política
+TX-100060,2026-10-07,Foods,DTS,5140.97,5140.97,0.0,Conciliado,2026-10-07,2026-10-19,12,Excede Lead Time Máximo
+TX-100061,2026-10-18,Foods,Wholesale,29070.05,29070.05,0.0,Conciliado,2026-10-18,2026-10-31,13,Excede Lead Time Máximo
+TX-100062,2026-10-04,Foods,Wholesale,43918.35,43918.35,0.0,Conciliado,2026-10-04,2026-10-15,11,Excede Lead Time Máximo
+TX-100063,2026-10-25,Biscuits,C-Stores,21973.13,21973.13,0.0,Conciliado,2026-10-25,2026-11-03,9,Dentro de Política
+TX-100064,2026-10-28,C&NB,Wholesale,8461.98,8461.98,0.0,Conciliado,2026-10-28,2026-11-07,10,Dentro de Política
+TX-100065,2026-10-14,Savory,Away From Home,28123.1,28123.1,0.0,Conciliado,2026-10-14,2026-10-17,3,Dentro de Política
+TX-100066,2026-10-18,Biscuits,Away From Home,40681.73,42715.81650000001,-2034.09,Diferencia de Monto,2026-10-18,2026-10-19,1,Dentro de Política
+TX-100067,2026-10-26,Savory,C-Stores,37214.75,37214.75,0.0,Conciliado,2026-10-26,2026-11-02,7,Dentro de Política
+TX-100068,2026-10-09,C&NB,Away From Home,44131.81,44131.81,0.0,Conciliado,2026-10-09,2026-10-17,8,Dentro de Política
+TX-100069,2026-10-26,Foods,Organized Trade,14256.15,14256.15,0.0,Conciliado,2026-10-26,2026-11-04,9,Dentro de Política
+TX-100070,2026-10-21,C&NB,C-Stores,10100.72,10100.72,0.0,Conciliado,2026-10-21,2026-11-02,12,Excede Lead Time Máximo
+TX-100071,2026-10-02,Biscuits,Organized Trade,44050.92,44050.92,0.0,Conciliado,2026-10-02,2026-10-04,2,Dentro de Política
+TX-100072,2026-10-20,Foods,DTS,33049.24,33049.24,0.0,Conciliado,2026-10-20,2026-11-04,15,Excede Lead Time Máximo
+TX-100073,2026-10-28,Biscuits,Organized Trade,15890.98,15890.98,0.0,Conciliado,2026-10-28,2026-11-05,8,Dentro de Política
+TX-100074,2026-10-15,Foods,DTS,37246.23,37246.23,0.0,Conciliado,2026-10-15,2026-10-27,12,Excede Lead Time Máximo
+TX-100075,2026-10-28,Savory,DTS,40848.36,40848.36,0.0,Conciliado,2026-10-28,2026-11-10,13,Excede Lead Time Máximo
+TX-100076,2026-10-07,Savory,Organized Trade,30941.42,30941.42,0.0,Conciliado,2026-10-07,2026-10-09,2,Dentro de Política
+TX-100077,2026-10-12,Savory,C-Stores,34550.26,34550.26,0.0,Conciliado,2026-10-12,2026-10-17,5,Dentro de Política
+TX-100078,2026-10-29,C&NB,Away From Home,19075.37,19075.37,0.0,Conciliado,2026-10-29,2026-11-09,11,Excede Lead Time Máximo
+TX-100079,2026-10-08,Biscuits,Away From Home,27165.44,27165.44,0.0,Conciliado,2026-10-08,2026-10-09,1,Dentro de Política
+TX-100080,2026-10-15,C&NB,DTS,26445.88,26445.88,0.0,Conciliado,2026-10-15,2026-10-24,9,Dentro de Política
+TX-100081,2026-10-03,Savory,DTS,42478.37,42478.37,0.0,Conciliado,2026-10-03,2026-10-16,13,Excede Lead Time Máximo
+TX-100082,2026-10-14,Biscuits,C-Stores,42078.22,42078.22,0.0,Conciliado,2026-10-14,2026-10-20,6,Dentro de Política
+TX-100083,2026-10-17,Savory,Wholesale,41717.68,41717.68,0.0,Conciliado,2026-10-17,2026-10-22,5,Dentro de Política
+TX-100084,2026-10-04,C&NB,Organized Trade,1046.06,1046.06,0.0,Conciliado,2026-10-04,2026-10-12,8,Dentro de Política
+TX-100085,2026-10-18,C&NB,DTS,37602.5,37602.5,0.0,Conciliado,2026-10-18,2026-10-27,9,Dentro de Política
+TX-100086,2026-10-08,C&NB,Away From Home,38054.48,38054.48,0.0,Conciliado,2026-10-08,2026-10-17,9,Dentro de Política
+TX-100087,2026-10-04,Savory,C-Stores,34079.75,34079.75,0.0,Conciliado,2026-10-04,2026-10-07,3,Dentro de Política
+TX-100088,2026-10-02,Biscuits,Organized Trade,37935.1,37935.1,0.0,Conciliado,2026-10-02,2026-10-15,13,Excede Lead Time Máximo
+TX-100089,2026-10-30,Biscuits,C-Stores,42177.53,42177.53,0.0,Conciliado,2026-10-30,2026-11-06,7,Dentro de Política
+TX-100090,2026-10-06,Savory,Organized Trade,23780.79,23780.79,0.0,Conciliado,2026-10-06,2026-10-09,3,Dentro de Política
+TX-100091,2026-10-22,Biscuits,Organized Trade,25351.49,25351.49,0.0,Conciliado,2026-10-22,2026-10-31,9,Dentro de Política
+TX-100092,2026-10-10,Savory,DTS,6673.35,6673.35,0.0,Conciliado,2026-10-10,2026-10-24,14,Excede Lead Time Máximo
+TX-100093,2026-10-04,Biscuits,C-Stores,19576.11,19576.11,0.0,Conciliado,2026-10-04,2026-10-13,9,Dentro de Política
+TX-100094,2026-10-22,Foods,C-Stores,32346.58,32346.58,0.0,Conciliado,2026-10-22,2026-11-05,14,Excede Lead Time Máximo
+TX-100095,2026-10-29,Foods,Away From Home,39129.79,39129.79,0.0,Conciliado,2026-10-29,2026-11-05,7,Dentro de Política
+TX-100096,2026-10-18,C&NB,Away From Home,11251.85,11251.85,0.0,Conciliado,2026-10-18,2026-10-25,7,Dentro de Política
+TX-100097,2026-10-26,Foods,DTS,7322.23,7322.23,0.0,Conciliado,2026-10-26,2026-11-01,6,Dentro de Política
+TX-100098,2026-10-12,Foods,DTS,33320.58,33320.58,0.0,Conciliado,2026-10-12,2026-10-23,11,Excede Lead Time Máximo
+TX-100099,2026-10-02,Foods,Wholesale,593.05,593.05,0.0,Conciliado,2026-10-02,2026-10-09,7,Dentro de Política
+TX-100100,2026-10-10,Savory,Away From Home,9329.44,9329.44,0.0,Conciliado,2026-10-10,2026-10-22,12,Excede Lead Time Máximo
+TX-100101,2026-10-30,Foods,Organized Trade,1939.03,1939.03,0.0,Conciliado,2026-10-30,2026-10-31,1,Dentro de Política
+TX-100102,2026-10-04,Foods,C-Stores,8760.81,8760.81,0.0,Conciliado,2026-10-04,2026-10-17,13,Excede Lead Time Máximo
+TX-100103,2026-10-14,C&NB,DTS,9475.3,9475.3,0.0,Conciliado,2026-10-14,2026-10-27,13,Excede Lead Time Máximo
+TX-100104,2026-10-16,Foods,C-Stores,19689.84,19689.84,0.0,Conciliado,2026-10-16,2026-10-17,1,Dentro de Política
+TX-100105,2026-10-15,Foods,C-Stores,20415.19,20415.19,0.0,Conciliado,2026-10-15,2026-10-30,15,Excede Lead Time Máximo
+TX-100106,2026-10-08,Biscuits,Wholesale,43775.99,43775.99,0.0,Conciliado,2026-10-08,2026-10-15,7,Dentro de Política
+TX-100107,2026-10-14,C&NB,Away From Home,25750.43,25750.43,0.0,Conciliado,2026-10-14,2026-10-24,10,Dentro de Política
+TX-100108,2026-10-23,C&NB,DTS,36308.54,36308.54,0.0,Conciliado,2026-10-23,2026-10-25,2,Dentro de Política
+TX-100109,2026-10-28,C&NB,C-Stores,5654.8,5654.8,0.0,Conciliado,2026-10-28,2026-11-10,13,Excede Lead Time Máximo
+TX-100110,2026-10-25,C&NB,DTS,11659.22,11659.22,0.0,Conciliado,2026-10-25,2026-11-03,9,Dentro de Política
+TX-100111,2026-10-30,C&NB,Organized Trade,35295.7,35295.7,0.0,Conciliado,2026-10-30,2026-11-10,11,Excede Lead Time Máximo
+TX-100112,2026-10-08,C&NB,Wholesale,3113.8,3113.8,0.0,Conciliado,2026-10-08,2026-10-22,14,Excede Lead Time Máximo
+TX-100113,2026-10-21,Savory,Organized Trade,24586.58,24586.58,0.0,Conciliado,2026-10-21,2026-10-31,10,Dentro de Política
+TX-100114,2026-10-16,Foods,DTS,30168.76,30168.76,0.0,Conciliado,2026-10-16,2026-10-28,12,Excede Lead Time Máximo
+TX-100115,2026-10-13,C&NB,DTS,30306.21,30306.21,0.0,Conciliado,2026-10-13,2026-10-15,2,Dentro de Política
+TX-100116,2026-10-18,Foods,Away From Home,1635.17,1635.17,0.0,Conciliado,2026-10-18,2026-10-21,3,Dentro de Política
+TX-100117,2026-10-15,Foods,C-Stores,16444.35,16444.35,0.0,Conciliado,2026-10-15,2026-10-29,14,Excede Lead Time Máximo
+TX-100118,2026-10-21,Savory,C-Stores,32006.29,32006.29,0.0,Conciliado,2026-10-21,2026-10-30,9,Dentro de Política
+TX-100119,2026-10-24,C&NB,Organized Trade,7875.49,7875.49,0.0,Conciliado,2026-10-24,2026-11-03,10,Dentro de Política
+TX-100120,2026-10-26,Biscuits,Wholesale,34923.07,34923.07,0.0,Conciliado,2026-10-26,2026-11-05,10,Dentro de Política
+TX-100121,2026-10-25,Savory,C-Stores,37423.3,37423.3,0.0,Conciliado,2026-10-25,2026-10-31,6,Dentro de Política
+TX-100122,2026-10-28,Biscuits,Away From Home,49107.47,49107.47,0.0,Conciliado,2026-10-28,2026-10-29,1,Dentro de Política
+TX-100123,2026-10-28,Foods,Organized Trade,10887.18,10887.18,0.0,Conciliado,2026-10-28,2026-10-31,3,Dentro de Política
+TX-100124,2026-10-28,Foods,Organized Trade,41343.97,41343.97,0.0,Conciliado,2026-10-28,2026-11-05,8,Dentro de Política
+TX-100125,2026-10-13,Savory,Away From Home,26254.68,26254.68,0.0,Conciliado,2026-10-13,2026-10-17,4,Dentro de Política
+TX-100126,2026-10-09,Savory,Wholesale,18986.4,18986.4,0.0,Conciliado,2026-10-09,2026-10-23,14,Excede Lead Time Máximo
+TX-100127,2026-10-29,Biscuits,Away From Home,6557.65,6557.65,0.0,Conciliado,2026-10-29,2026-10-30,1,Dentro de Política
+TX-100128,2026-10-15,C&NB,Wholesale,36907.53,36907.53,0.0,Conciliado,2026-10-15,2026-10-20,5,Dentro de Política
+TX-100129,2026-10-13,Biscuits,Away From Home,12174.95,12174.95,0.0,Conciliado,2026-10-13,2026-10-16,3,Dentro de Política
+TX-100130,2026-10-01,Savory,Away From Home,18885.39,18885.39,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100131,2026-10-25,Biscuits,DTS,3595.84,3595.84,0.0,Conciliado,2026-10-25,2026-11-09,15,Excede Lead Time Máximo
+TX-100132,2026-10-07,Savory,Organized Trade,40167.66,40167.66,0.0,Conciliado,2026-10-07,2026-10-11,4,Dentro de Política
+TX-100133,2026-10-09,Biscuits,Away From Home,38446.13,38446.13,0.0,Conciliado,2026-10-09,2026-10-13,4,Dentro de Política
+TX-100134,2026-10-24,Savory,Away From Home,36813.98,36813.98,0.0,Conciliado,2026-10-24,2026-10-26,2,Dentro de Política
+TX-100135,2026-10-01,Savory,C-Stores,15322.45,15322.45,0.0,Conciliado,2026-10-01,2026-10-04,3,Dentro de Política
+TX-100136,2026-10-12,Savory,Organized Trade,9087.26,9087.26,0.0,Conciliado,2026-10-12,2026-10-18,6,Dentro de Política
+TX-100137,2026-10-08,C&NB,C-Stores,32058.89,32058.89,0.0,Conciliado,2026-10-08,2026-10-18,10,Dentro de Política
+TX-100138,2026-10-24,Biscuits,Organized Trade,25060.24,25060.24,0.0,Conciliado,2026-10-24,2026-11-08,15,Excede Lead Time Máximo
+TX-100139,2026-10-11,Biscuits,C-Stores,9323.5,9323.5,0.0,Conciliado,2026-10-11,2026-10-12,1,Dentro de Política
+TX-100140,2026-10-19,Biscuits,Away From Home,34452.61,34452.61,0.0,Conciliado,2026-10-19,2026-10-30,11,Excede Lead Time Máximo
+TX-100141,2026-10-17,Savory,Away From Home,49560.76,49560.76,0.0,Conciliado,2026-10-17,2026-10-19,2,Dentro de Política
+TX-100142,2026-10-08,Biscuits,DTS,37487.37,37487.37,0.0,Conciliado,2026-10-08,2026-10-09,1,Dentro de Política
+TX-100143,2026-10-03,Biscuits,C-Stores,37129.33,37129.33,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100144,2026-10-03,Savory,Wholesale,47540.48,47540.48,0.0,Conciliado,2026-10-03,2026-10-13,10,Dentro de Política
+TX-100145,2026-10-01,Foods,DTS,10545.35,10545.35,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100146,2026-10-27,Savory,C-Stores,28494.72,28494.72,0.0,Conciliado,2026-10-27,2026-11-06,10,Dentro de Política
+TX-100147,2026-10-05,Biscuits,C-Stores,48992.51,48992.51,0.0,Conciliado,2026-10-05,2026-10-16,11,Excede Lead Time Máximo
+TX-100148,2026-10-10,Savory,DTS,8682.06,8682.06,0.0,Conciliado,2026-10-10,2026-10-23,13,Excede Lead Time Máximo
+TX-100149,2026-10-07,Foods,Away From Home,35162.47,35162.47,0.0,Conciliado,2026-10-07,2026-10-10,3,Dentro de Política
+TX-100150,2026-10-26,Savory,C-Stores,29497.6,29497.6,0.0,Conciliado,2026-10-26,2026-11-10,15,Excede Lead Time Máximo
+TX-100151,2026-10-09,Biscuits,Away From Home,29530.72,29530.72,0.0,Conciliado,2026-10-09,2026-10-11,2,Dentro de Política
+TX-100152,2026-10-28,Foods,DTS,35034.7,35034.7,0.0,Conciliado,2026-10-28,2026-10-30,2,Dentro de Política
+TX-100153,2026-10-07,C&NB,Away From Home,46516.04,46516.04,0.0,Conciliado,2026-10-07,2026-10-20,13,Excede Lead Time Máximo
+TX-100154,2026-10-09,Biscuits,Organized Trade,39237.81,39237.81,0.0,Conciliado,2026-10-09,2026-10-10,1,Dentro de Política
+TX-100155,2026-10-08,Foods,Wholesale,3278.74,3278.74,0.0,Conciliado,2026-10-08,2026-10-09,1,Dentro de Política
+TX-100156,2026-10-12,Foods,C-Stores,42710.04,,42710.04,Falta en Synapse,2026-10-12,2026-10-18,6,Dentro de Política
+TX-100157,2026-10-02,C&NB,Wholesale,11664.3,11664.3,0.0,Conciliado,2026-10-02,2026-10-12,10,Dentro de Política
+TX-100158,2026-10-01,Savory,Away From Home,19157.25,19157.25,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100159,2026-10-16,Savory,C-Stores,23355.77,23355.77,0.0,Conciliado,2026-10-16,2026-10-21,5,Dentro de Política
+TX-100160,2026-10-23,Biscuits,Away From Home,24304.85,24304.85,0.0,Conciliado,2026-10-23,2026-11-05,13,Excede Lead Time Máximo
+TX-100161,2026-10-23,C&NB,Organized Trade,22041.43,22041.43,0.0,Conciliado,2026-10-23,2026-10-30,7,Dentro de Política
+TX-100162,2026-10-30,Savory,DTS,46898.99,46898.99,0.0,Conciliado,2026-10-30,2026-11-14,15,Excede Lead Time Máximo
+TX-100163,2026-10-24,C&NB,C-Stores,35447.94,35447.94,0.0,Conciliado,2026-10-24,2026-10-31,7,Dentro de Política
+TX-100164,2026-10-05,Savory,Organized Trade,31742.95,31742.95,0.0,Conciliado,2026-10-05,2026-10-06,1,Dentro de Política
+TX-100165,2026-10-03,Foods,Organized Trade,2967.18,2967.18,0.0,Conciliado,2026-10-03,2026-10-06,3,Dentro de Política
+TX-100166,2026-10-12,Savory,C-Stores,45243.71,45243.71,0.0,Conciliado,2026-10-12,2026-10-16,4,Dentro de Política
+TX-100167,2026-10-08,C&NB,Away From Home,45514.81,45514.81,0.0,Conciliado,2026-10-08,2026-10-23,15,Excede Lead Time Máximo
+TX-100168,2026-10-22,Foods,Organized Trade,39120.55,39120.55,0.0,Conciliado,2026-10-22,2026-10-26,4,Dentro de Política
+TX-100169,2026-10-27,Foods,Wholesale,847.95,847.95,0.0,Conciliado,2026-10-27,2026-11-08,12,Excede Lead Time Máximo
+TX-100170,2026-10-03,Foods,Organized Trade,3335.37,3335.37,0.0,Conciliado,2026-10-03,2026-10-06,3,Dentro de Política
+TX-100171,2026-10-01,C&NB,Away From Home,11648.57,11648.57,0.0,Conciliado,2026-10-01,2026-10-16,15,Excede Lead Time Máximo
+TX-100172,2026-10-03,Biscuits,Away From Home,7001.8,7001.8,0.0,Conciliado,2026-10-03,2026-10-10,7,Dentro de Política
+TX-100173,2026-10-05,Biscuits,Wholesale,20242.38,20242.38,0.0,Conciliado,2026-10-05,2026-10-19,14,Excede Lead Time Máximo
+TX-100174,2026-10-15,Biscuits,Organized Trade,46169.84,46169.84,0.0,Conciliado,2026-10-15,2026-10-26,11,Excede Lead Time Máximo
+TX-100175,2026-10-14,C&NB,Away From Home,23866.99,23866.99,0.0,Conciliado,2026-10-14,2026-10-26,12,Excede Lead Time Máximo
+TX-100176,2026-10-03,Foods,C-Stores,1163.43,1163.43,0.0,Conciliado,2026-10-03,2026-10-04,1,Dentro de Política
+TX-100177,2026-10-01,Biscuits,DTS,14495.91,14495.91,0.0,Conciliado,2026-10-01,2026-10-07,6,Dentro de Política
+TX-100178,2026-10-05,C&NB,DTS,2707.45,2707.45,0.0,Conciliado,2026-10-05,2026-10-19,14,Excede Lead Time Máximo
+TX-100179,2026-10-26,Biscuits,DTS,2296.24,2296.24,0.0,Conciliado,2026-10-26,2026-11-09,14,Excede Lead Time Máximo
+TX-100180,2026-10-23,Savory,Organized Trade,14148.13,14148.13,0.0,Conciliado,2026-10-23,2026-11-04,12,Excede Lead Time Máximo
+TX-100181,2026-10-14,Biscuits,Wholesale,14142.81,14142.81,0.0,Conciliado,2026-10-14,2026-10-16,2,Dentro de Política
+TX-100182,2026-10-07,Biscuits,Away From Home,39462.77,39462.77,0.0,Conciliado,2026-10-07,2026-10-11,4,Dentro de Política
+TX-100183,2026-10-27,Foods,C-Stores,48754.32,48754.32,0.0,Conciliado,2026-10-27,2026-11-03,7,Dentro de Política
+TX-100184,2026-10-09,C&NB,C-Stores,18874.75,18874.75,0.0,Conciliado,2026-10-09,2026-10-15,6,Dentro de Política
+TX-100185,2026-10-15,Foods,Organized Trade,21729.9,21729.9,0.0,Conciliado,2026-10-15,2026-10-27,12,Excede Lead Time Máximo
+TX-100186,2026-10-15,Foods,DTS,42317.08,42317.08,0.0,Conciliado,2026-10-15,2026-10-21,6,Dentro de Política
+TX-100187,2026-10-26,Foods,Organized Trade,13772.88,13772.88,0.0,Conciliado,2026-10-26,2026-10-28,2,Dentro de Política
+TX-100188,2026-10-10,Foods,Wholesale,8240.9,8240.9,0.0,Conciliado,2026-10-10,2026-10-22,12,Excede Lead Time Máximo
+TX-100189,2026-10-28,Foods,Wholesale,42727.94,42727.94,0.0,Conciliado,2026-10-28,2026-11-06,9,Dentro de Política
+TX-100190,2026-10-13,Biscuits,Away From Home,2801.78,2801.78,0.0,Conciliado,2026-10-13,2026-10-14,1,Dentro de Política
+TX-100191,2026-10-19,Foods,Away From Home,31175.12,31175.12,0.0,Conciliado,2026-10-19,2026-10-25,6,Dentro de Política
+TX-100192,2026-10-07,Foods,Wholesale,28318.65,28318.65,0.0,Conciliado,2026-10-07,2026-10-17,10,Dentro de Política
+TX-100193,2026-10-17,C&NB,Wholesale,17623.06,17623.06,0.0,Conciliado,2026-10-17,2026-10-26,9,Dentro de Política
+TX-100194,2026-10-20,Savory,Wholesale,16101.88,16101.88,0.0,Conciliado,2026-10-20,2026-10-26,6,Dentro de Política
+TX-100195,2026-10-29,Biscuits,Organized Trade,38706.96,38706.96,0.0,Conciliado,2026-10-29,2026-11-10,12,Excede Lead Time Máximo
+TX-100196,2026-10-04,Biscuits,Wholesale,4778.02,4778.02,0.0,Conciliado,2026-10-04,2026-10-16,12,Excede Lead Time Máximo
+TX-100197,2026-10-30,Biscuits,C-Stores,12220.82,12220.82,0.0,Conciliado,2026-10-30,2026-11-10,11,Excede Lead Time Máximo
+TX-100198,2026-10-05,Foods,DTS,36756.21,36756.21,0.0,Conciliado,2026-10-05,2026-10-13,8,Dentro de Política
+TX-100199,2026-10-23,Foods,Wholesale,27641.87,27641.87,0.0,Conciliado,2026-10-23,2026-11-01,9,Dentro de Política
+TX-100200,2026-10-07,Foods,DTS,6835.42,6835.42,0.0,Conciliado,2026-10-07,2026-10-13,6,Dentro de Política
+TX-100201,2026-10-13,C&NB,Organized Trade,44165.71,44165.71,0.0,Conciliado,2026-10-13,2026-10-22,9,Dentro de Política
+TX-100202,2026-10-15,Savory,DTS,19975.67,19975.67,0.0,Conciliado,2026-10-15,2026-10-28,13,Excede Lead Time Máximo
+TX-100203,2026-10-11,Foods,Organized Trade,41479.48,41479.48,0.0,Conciliado,2026-10-11,2026-10-25,14,Excede Lead Time Máximo
+TX-100204,2026-10-29,Savory,C-Stores,39491.79,39491.79,0.0,Conciliado,2026-10-29,2026-11-13,15,Excede Lead Time Máximo
+TX-100205,2026-10-04,C&NB,Organized Trade,31409.06,31409.06,0.0,Conciliado,2026-10-04,2026-10-16,12,Excede Lead Time Máximo
+TX-100206,2026-10-13,Biscuits,Organized Trade,24976.82,24976.82,0.0,Conciliado,2026-10-13,2026-10-23,10,Dentro de Política
+TX-100207,2026-10-07,Foods,Away From Home,48987.77,48987.77,0.0,Conciliado,2026-10-07,2026-10-17,10,Dentro de Política
+TX-100208,2026-10-27,Savory,Wholesale,7675.77,7675.77,0.0,Conciliado,2026-10-27,2026-11-11,15,Excede Lead Time Máximo
+TX-100209,2026-10-19,Savory,Wholesale,36395.21,36395.21,0.0,Conciliado,2026-10-19,2026-10-21,2,Dentro de Política
+TX-100210,2026-10-22,Foods,C-Stores,9963.94,9963.94,0.0,Conciliado,2026-10-22,2026-10-28,6,Dentro de Política
+TX-100211,2026-10-28,Biscuits,C-Stores,17244.02,17244.02,0.0,Conciliado,2026-10-28,2026-11-12,15,Excede Lead Time Máximo
+TX-100212,2026-10-02,Biscuits,Wholesale,15780.59,15780.59,0.0,Conciliado,2026-10-02,2026-10-16,14,Excede Lead Time Máximo
+TX-100213,2026-10-10,Biscuits,Away From Home,47378.28,47378.28,0.0,Conciliado,2026-10-10,2026-10-20,10,Dentro de Política
+TX-100214,2026-10-13,C&NB,Wholesale,48384.13,48384.13,0.0,Conciliado,2026-10-13,2026-10-15,2,Dentro de Política
+TX-100215,2026-10-30,Savory,Away From Home,9559.26,9559.26,0.0,Conciliado,2026-10-30,2026-11-04,5,Dentro de Política
+TX-100216,2026-10-25,Savory,C-Stores,1590.74,1590.74,0.0,Conciliado,2026-10-25,2026-11-02,8,Dentro de Política
+TX-100217,2026-10-21,Savory,DTS,36140.4,36140.4,0.0,Conciliado,2026-10-21,2026-11-05,15,Excede Lead Time Máximo
+TX-100218,2026-10-06,C&NB,C-Stores,21190.5,21190.5,0.0,Conciliado,2026-10-06,2026-10-19,13,Excede Lead Time Máximo
+TX-100219,2026-10-28,Savory,C-Stores,4897.59,4897.59,0.0,Conciliado,2026-10-28,2026-11-05,8,Dentro de Política
+TX-100220,2026-10-28,C&NB,Organized Trade,34345.83,34345.83,0.0,Conciliado,2026-10-28,2026-11-09,12,Excede Lead Time Máximo
+TX-100221,2026-10-12,Biscuits,Organized Trade,27482.72,27482.72,0.0,Conciliado,2026-10-12,2026-10-20,8,Dentro de Política
+TX-100222,2026-10-12,Foods,Organized Trade,49035.58,49035.58,0.0,Conciliado,2026-10-12,2026-10-22,10,Dentro de Política
+TX-100223,2026-10-20,Savory,Organized Trade,11756.77,11756.77,0.0,Conciliado,2026-10-20,2026-10-28,8,Dentro de Política
+TX-100224,2026-10-30,Savory,Away From Home,20496.9,21521.745000000003,-1024.85,Diferencia de Monto,2026-10-30,2026-11-06,7,Dentro de Política
+TX-100225,2026-10-30,Biscuits,Wholesale,27356.02,27356.02,0.0,Conciliado,2026-10-30,2026-10-31,1,Dentro de Política
+TX-100226,2026-10-11,Foods,DTS,39689.15,39689.15,0.0,Conciliado,2026-10-11,2026-10-15,4,Dentro de Política
+TX-100227,2026-10-26,C&NB,C-Stores,27667.51,27667.51,0.0,Conciliado,2026-10-26,2026-11-05,10,Dentro de Política
+TX-100228,2026-10-23,Foods,Away From Home,30838.56,30838.56,0.0,Conciliado,2026-10-23,2026-10-28,5,Dentro de Política
+TX-100229,2026-10-28,Biscuits,DTS,11694.28,11694.28,0.0,Conciliado,2026-10-28,2026-11-10,13,Excede Lead Time Máximo
+TX-100230,2026-10-25,Biscuits,Away From Home,42422.48,42422.48,0.0,Conciliado,2026-10-25,2026-10-30,5,Dentro de Política
+TX-100231,2026-10-07,Foods,Away From Home,21717.21,21717.21,0.0,Conciliado,2026-10-07,2026-10-22,15,Excede Lead Time Máximo
+TX-100232,2026-10-30,C&NB,C-Stores,7477.5,7477.5,0.0,Conciliado,2026-10-30,2026-11-06,7,Dentro de Política
+TX-100233,2026-10-01,C&NB,Wholesale,33377.3,33377.3,0.0,Conciliado,2026-10-01,2026-10-16,15,Excede Lead Time Máximo
+TX-100234,2026-10-01,Savory,Organized Trade,11196.48,11196.48,0.0,Conciliado,2026-10-01,2026-10-10,9,Dentro de Política
+TX-100235,2026-10-25,C&NB,Wholesale,5329.34,5329.34,0.0,Conciliado,2026-10-25,2026-10-30,5,Dentro de Política
+TX-100236,2026-10-27,Foods,C-Stores,43168.35,43168.35,0.0,Conciliado,2026-10-27,2026-11-07,11,Excede Lead Time Máximo
+TX-100237,2026-10-30,Biscuits,C-Stores,23278.03,23278.03,0.0,Conciliado,2026-10-30,2026-11-14,15,Excede Lead Time Máximo
+TX-100238,2026-10-25,Savory,C-Stores,37589.54,37589.54,0.0,Conciliado,2026-10-25,2026-11-04,10,Dentro de Política
+TX-100239,2026-10-20,Savory,DTS,14884.08,14884.08,0.0,Conciliado,2026-10-20,2026-10-23,3,Dentro de Política
+TX-100240,2026-10-13,Biscuits,Wholesale,39455.02,39455.02,0.0,Conciliado,2026-10-13,2026-10-15,2,Dentro de Política
+TX-100241,2026-10-09,C&NB,Wholesale,6040.83,6040.83,0.0,Conciliado,2026-10-09,2026-10-20,11,Excede Lead Time Máximo
+TX-100242,2026-10-03,Biscuits,Away From Home,18120.68,18120.68,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100243,2026-10-07,C&NB,Away From Home,48914.06,48914.06,0.0,Conciliado,2026-10-07,2026-10-14,7,Dentro de Política
+TX-100244,2026-10-06,Biscuits,Away From Home,39802.49,39802.49,0.0,Conciliado,2026-10-06,2026-10-10,4,Dentro de Política
+TX-100245,2026-10-08,Foods,C-Stores,25114.17,25114.17,0.0,Conciliado,2026-10-08,2026-10-19,11,Excede Lead Time Máximo
+TX-100246,2026-10-27,C&NB,Wholesale,17318.98,17318.98,0.0,Conciliado,2026-10-27,2026-11-10,14,Excede Lead Time Máximo
+TX-100247,2026-10-09,Foods,C-Stores,43670.72,43670.72,0.0,Conciliado,2026-10-09,2026-10-21,12,Excede Lead Time Máximo
+TX-100248,2026-10-30,Savory,DTS,27469.96,27469.96,0.0,Conciliado,2026-10-30,2026-11-04,5,Dentro de Política
+TX-100249,2026-10-05,Biscuits,Away From Home,38042.04,38042.04,0.0,Conciliado,2026-10-05,2026-10-11,6,Dentro de Política
+TX-100250,2026-10-01,Savory,C-Stores,37828.33,37828.33,0.0,Conciliado,2026-10-01,2026-10-15,14,Excede Lead Time Máximo
+TX-100251,2026-10-19,Savory,C-Stores,1388.31,1388.31,0.0,Conciliado,2026-10-19,2026-10-24,5,Dentro de Política
+TX-100252,2026-10-10,Savory,DTS,6749.56,6749.56,0.0,Conciliado,2026-10-10,2026-10-11,1,Dentro de Política
+TX-100253,2026-10-12,Savory,Organized Trade,33151.65,33151.65,0.0,Conciliado,2026-10-12,2026-10-27,15,Excede Lead Time Máximo
+TX-100254,2026-10-24,Biscuits,Wholesale,8500.18,8500.18,0.0,Conciliado,2026-10-24,2026-11-04,11,Excede Lead Time Máximo
+TX-100255,2026-10-15,Savory,Organized Trade,13146.92,13146.92,0.0,Conciliado,2026-10-15,2026-10-18,3,Dentro de Política
+TX-100256,2026-10-27,Biscuits,Away From Home,47358.58,47358.58,0.0,Conciliado,2026-10-27,2026-11-05,9,Dentro de Política
+TX-100257,2026-10-22,Biscuits,C-Stores,28229.02,28229.02,0.0,Conciliado,2026-10-22,2026-11-06,15,Excede Lead Time Máximo
+TX-100258,2026-10-24,Foods,DTS,37661.11,37661.11,0.0,Conciliado,2026-10-24,2026-10-25,1,Dentro de Política
+TX-100259,2026-10-09,C&NB,DTS,28120.05,28120.05,0.0,Conciliado,2026-10-09,2026-10-17,8,Dentro de Política
+TX-100260,2026-10-20,C&NB,Wholesale,27849.42,27849.42,0.0,Conciliado,2026-10-20,2026-11-04,15,Excede Lead Time Máximo
+TX-100261,2026-10-17,Biscuits,Organized Trade,5160.52,5160.52,0.0,Conciliado,2026-10-17,2026-10-24,7,Dentro de Política
+TX-100262,2026-10-30,Foods,Wholesale,17511.33,17511.33,0.0,Conciliado,2026-10-30,2026-11-10,11,Excede Lead Time Máximo
+TX-100263,2026-10-17,Biscuits,C-Stores,14480.33,14480.33,0.0,Conciliado,2026-10-17,2026-10-23,6,Dentro de Política
+TX-100264,2026-10-26,Biscuits,Wholesale,19841.05,19841.05,0.0,Conciliado,2026-10-26,2026-11-04,9,Dentro de Política
+TX-100265,2026-10-20,Biscuits,DTS,40018.04,40018.04,0.0,Conciliado,2026-10-20,2026-11-03,14,Excede Lead Time Máximo
+TX-100266,2026-10-12,Foods,DTS,18910.67,18910.67,0.0,Conciliado,2026-10-12,2026-10-15,3,Dentro de Política
+TX-100267,2026-10-30,C&NB,Away From Home,22858.99,22858.99,0.0,Conciliado,2026-10-30,2026-11-02,3,Dentro de Política
+TX-100268,2026-10-07,Foods,Away From Home,20170.38,20170.38,0.0,Conciliado,2026-10-07,2026-10-08,1,Dentro de Política
+TX-100269,2026-10-02,Savory,C-Stores,5123.69,5123.69,0.0,Conciliado,2026-10-02,2026-10-15,13,Excede Lead Time Máximo
+TX-100270,2026-10-03,Foods,Organized Trade,22333.07,22333.07,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100271,2026-10-17,Foods,Wholesale,10182.66,10182.66,0.0,Conciliado,2026-10-17,2026-10-29,12,Excede Lead Time Máximo
+TX-100272,2026-10-05,Foods,C-Stores,9742.8,9742.8,0.0,Conciliado,2026-10-05,2026-10-19,14,Excede Lead Time Máximo
+TX-100273,2026-10-17,Foods,Away From Home,5154.79,5154.79,0.0,Conciliado,2026-10-17,2026-10-20,3,Dentro de Política
+TX-100274,2026-10-24,C&NB,Wholesale,18155.21,18155.21,0.0,Conciliado,2026-10-24,2026-11-05,12,Excede Lead Time Máximo
+TX-100275,2026-10-17,Savory,Away From Home,37995.35,37995.35,0.0,Conciliado,2026-10-17,2026-10-21,4,Dentro de Política
+TX-100276,2026-10-27,C&NB,Wholesale,14183.86,14183.86,0.0,Conciliado,2026-10-27,2026-11-02,6,Dentro de Política
+TX-100277,2026-10-17,C&NB,Organized Trade,15961.28,15961.28,0.0,Conciliado,2026-10-17,2026-10-25,8,Dentro de Política
+TX-100278,2026-10-02,Foods,C-Stores,32312.4,32312.4,0.0,Conciliado,2026-10-02,2026-10-11,9,Dentro de Política
+TX-100279,2026-10-02,Biscuits,Wholesale,10194.12,10194.12,0.0,Conciliado,2026-10-02,2026-10-10,8,Dentro de Política
+TX-100280,2026-10-28,Biscuits,DTS,44899.42,47144.391,-2244.97,Diferencia de Monto,2026-10-28,2026-11-05,8,Dentro de Política
+TX-100281,2026-10-22,C&NB,DTS,26249.43,26249.43,0.0,Conciliado,2026-10-22,2026-10-29,7,Dentro de Política
+TX-100282,2026-10-23,C&NB,Wholesale,22656.35,22656.35,0.0,Conciliado,2026-10-23,2026-11-05,13,Excede Lead Time Máximo
+TX-100283,2026-10-05,Foods,Wholesale,28112.1,28112.1,0.0,Conciliado,2026-10-05,2026-10-15,10,Dentro de Política
+TX-100284,2026-10-01,C&NB,Wholesale,8718.7,8718.7,0.0,Conciliado,2026-10-01,2026-10-04,3,Dentro de Política
+TX-100285,2026-10-01,Foods,DTS,30866.92,30866.92,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100286,2026-10-19,Biscuits,DTS,18473.49,18473.49,0.0,Conciliado,2026-10-19,2026-11-01,13,Excede Lead Time Máximo
+TX-100287,2026-10-30,Biscuits,Wholesale,44910.72,44910.72,0.0,Conciliado,2026-10-30,2026-11-04,5,Dentro de Política
+TX-100288,2026-10-02,Savory,Away From Home,8858.28,8858.28,0.0,Conciliado,2026-10-02,2026-10-17,15,Excede Lead Time Máximo
+TX-100289,2026-10-21,Biscuits,Away From Home,25599.03,25599.03,0.0,Conciliado,2026-10-21,2026-11-04,14,Excede Lead Time Máximo
+TX-100290,2026-10-12,C&NB,Organized Trade,30106.58,30106.58,0.0,Conciliado,2026-10-12,2026-10-18,6,Dentro de Política
+TX-100291,2026-10-26,Biscuits,C-Stores,2152.49,2152.49,0.0,Conciliado,2026-10-26,2026-10-31,5,Dentro de Política
+TX-100292,2026-10-06,Foods,Away From Home,18502.81,18502.81,0.0,Conciliado,2026-10-06,2026-10-13,7,Dentro de Política
+TX-100293,2026-10-23,Biscuits,DTS,36765.44,36765.44,0.0,Conciliado,2026-10-23,2026-11-03,11,Excede Lead Time Máximo
+TX-100294,2026-10-04,Savory,Away From Home,41108.69,41108.69,0.0,Conciliado,2026-10-04,2026-10-14,10,Dentro de Política
+TX-100295,2026-10-23,Biscuits,Organized Trade,16001.52,16001.52,0.0,Conciliado,2026-10-23,2026-11-05,13,Excede Lead Time Máximo
+TX-100296,2026-10-11,Foods,Organized Trade,40030.37,40030.37,0.0,Conciliado,2026-10-11,2026-10-12,1,Dentro de Política
+TX-100297,2026-10-24,Foods,C-Stores,48403.92,48403.92,0.0,Conciliado,2026-10-24,2026-11-05,12,Excede Lead Time Máximo
+TX-100298,2026-10-27,C&NB,Away From Home,42915.26,42915.26,0.0,Conciliado,2026-10-27,2026-11-01,5,Dentro de Política
+TX-100299,2026-10-17,Biscuits,DTS,6323.38,6323.38,0.0,Conciliado,2026-10-17,2026-10-28,11,Excede Lead Time Máximo
+TX-100300,2026-10-06,Foods,DTS,37116.65,,37116.65,Falta en Synapse,2026-10-06,2026-10-13,7,Dentro de Política
+TX-100301,2026-10-24,Savory,Wholesale,16323.51,16323.51,0.0,Conciliado,2026-10-24,2026-10-29,5,Dentro de Política
+TX-100302,2026-10-05,C&NB,DTS,49426.59,49426.59,0.0,Conciliado,2026-10-05,2026-10-15,10,Dentro de Política
+TX-100303,2026-10-20,Savory,C-Stores,24525.27,24525.27,0.0,Conciliado,2026-10-20,2026-10-29,9,Dentro de Política
+TX-100304,2026-10-02,Biscuits,C-Stores,6560.48,6560.48,0.0,Conciliado,2026-10-02,2026-10-03,1,Dentro de Política
+TX-100305,2026-10-06,Biscuits,DTS,36396.68,36396.68,0.0,Conciliado,2026-10-06,2026-10-18,12,Excede Lead Time Máximo
+TX-100306,2026-10-22,Biscuits,DTS,16489.05,16489.05,0.0,Conciliado,2026-10-22,2026-10-30,8,Dentro de Política
+TX-100307,2026-10-11,C&NB,Wholesale,49855.37,49855.37,0.0,Conciliado,2026-10-11,2026-10-22,11,Excede Lead Time Máximo
+TX-100308,2026-10-16,Foods,DTS,48999.23,48999.23,0.0,Conciliado,2026-10-16,2026-10-18,2,Dentro de Política
+TX-100309,2026-10-16,C&NB,Wholesale,32978.63,32978.63,0.0,Conciliado,2026-10-16,2026-10-24,8,Dentro de Política
+TX-100310,2026-10-01,Savory,Wholesale,6926.41,6926.41,0.0,Conciliado,2026-10-01,2026-10-03,2,Dentro de Política
+TX-100311,2026-10-09,C&NB,DTS,34499.62,34499.62,0.0,Conciliado,2026-10-09,2026-10-11,2,Dentro de Política
+TX-100312,2026-10-28,Savory,Organized Trade,5105.01,5105.01,0.0,Conciliado,2026-10-28,2026-11-09,12,Excede Lead Time Máximo
+TX-100313,2026-10-27,C&NB,Organized Trade,1953.53,1953.53,0.0,Conciliado,2026-10-27,2026-11-11,15,Excede Lead Time Máximo
+TX-100314,2026-10-06,Foods,Wholesale,41236.44,41236.44,0.0,Conciliado,2026-10-06,2026-10-17,11,Excede Lead Time Máximo
+TX-100315,2026-10-16,Savory,DTS,10882.77,10882.77,0.0,Conciliado,2026-10-16,2026-10-22,6,Dentro de Política
+TX-100316,2026-10-29,Biscuits,Organized Trade,19261.84,19261.84,0.0,Conciliado,2026-10-29,2026-11-04,6,Dentro de Política
+TX-100317,2026-10-03,Biscuits,DTS,48686.14,48686.14,0.0,Conciliado,2026-10-03,2026-10-04,1,Dentro de Política
+TX-100318,2026-10-20,C&NB,DTS,17173.6,17173.6,0.0,Conciliado,2026-10-20,2026-11-02,13,Excede Lead Time Máximo
+TX-100319,2026-10-28,Biscuits,DTS,15176.24,15176.24,0.0,Conciliado,2026-10-28,2026-11-08,11,Excede Lead Time Máximo
+TX-100320,2026-10-27,Savory,Away From Home,45951.3,45951.3,0.0,Conciliado,2026-10-27,2026-11-10,14,Excede Lead Time Máximo
+TX-100321,2026-10-04,Biscuits,DTS,5982.05,5982.05,0.0,Conciliado,2026-10-04,2026-10-13,9,Dentro de Política
+TX-100322,2026-10-19,Foods,Away From Home,38099.33,38099.33,0.0,Conciliado,2026-10-19,2026-10-23,4,Dentro de Política
+TX-100323,2026-10-26,Foods,Wholesale,49409.25,49409.25,0.0,Conciliado,2026-10-26,2026-11-08,13,Excede Lead Time Máximo
+TX-100324,2026-10-03,C&NB,Organized Trade,45114.15,45114.15,0.0,Conciliado,2026-10-03,2026-10-11,8,Dentro de Política
+TX-100325,2026-10-19,Savory,Organized Trade,32757.56,32757.56,0.0,Conciliado,2026-10-19,2026-10-21,2,Dentro de Política
+TX-100326,2026-10-20,Foods,Organized Trade,16046.01,16046.01,0.0,Conciliado,2026-10-20,2026-11-03,14,Excede Lead Time Máximo
+TX-100327,2026-10-07,Foods,Organized Trade,13088.94,13088.94,0.0,Conciliado,2026-10-07,2026-10-13,6,Dentro de Política
+TX-100328,2026-10-20,Savory,Organized Trade,41053.13,41053.13,0.0,Conciliado,2026-10-20,2026-10-23,3,Dentro de Política
+TX-100329,2026-10-09,Biscuits,Organized Trade,44051.18,44051.18,0.0,Conciliado,2026-10-09,2026-10-13,4,Dentro de Política
+TX-100330,2026-10-01,Biscuits,Organized Trade,26509.03,26509.03,0.0,Conciliado,2026-10-01,2026-10-06,5,Dentro de Política
+TX-100331,2026-10-08,C&NB,Wholesale,12594.83,12594.83,0.0,Conciliado,2026-10-08,2026-10-14,6,Dentro de Política
+TX-100332,2026-10-07,Biscuits,DTS,6090.69,6090.69,0.0,Conciliado,2026-10-07,2026-10-15,8,Dentro de Política
+TX-100333,2026-10-18,Savory,C-Stores,4815.38,4815.38,0.0,Conciliado,2026-10-18,2026-10-31,13,Excede Lead Time Máximo
+TX-100334,2026-10-08,Foods,Away From Home,36094.33,36094.33,0.0,Conciliado,2026-10-08,2026-10-15,7,Dentro de Política
+TX-100335,2026-10-01,Biscuits,C-Stores,21295.88,21295.88,0.0,Conciliado,2026-10-01,2026-10-15,14,Excede Lead Time Máximo
+TX-100336,2026-10-11,C&NB,C-Stores,45315.31,45315.31,0.0,Conciliado,2026-10-11,2026-10-20,9,Dentro de Política
+TX-100337,2026-10-28,Biscuits,DTS,37113.73,37113.73,0.0,Conciliado,2026-10-28,2026-10-29,1,Dentro de Política
+TX-100338,2026-10-25,Savory,DTS,9967.39,9967.39,0.0,Conciliado,2026-10-25,2026-11-09,15,Excede Lead Time Máximo
+TX-100339,2026-10-25,C&NB,DTS,30881.98,30881.98,0.0,Conciliado,2026-10-25,2026-11-05,11,Excede Lead Time Máximo
+TX-100340,2026-10-18,Biscuits,Organized Trade,22057.52,22057.52,0.0,Conciliado,2026-10-18,2026-10-23,5,Dentro de Política
+TX-100341,2026-10-23,C&NB,Wholesale,29073.86,29073.86,0.0,Conciliado,2026-10-23,2026-10-30,7,Dentro de Política
+TX-100342,2026-10-30,Savory,Organized Trade,37034.42,37034.42,0.0,Conciliado,2026-10-30,2026-11-03,4,Dentro de Política
+TX-100343,2026-10-10,Foods,Wholesale,40406.7,40406.7,0.0,Conciliado,2026-10-10,2026-10-16,6,Dentro de Política
+TX-100344,2026-10-03,Savory,Wholesale,42265.0,42265.0,0.0,Conciliado,2026-10-03,2026-10-13,10,Dentro de Política
+TX-100345,2026-10-07,Savory,C-Stores,13071.76,13725.348,-653.59,Diferencia de Monto,2026-10-07,2026-10-11,4,Dentro de Política
+TX-100346,2026-10-28,Savory,C-Stores,2040.22,2040.22,0.0,Conciliado,2026-10-28,2026-11-06,9,Dentro de Política
+TX-100347,2026-10-16,Savory,Wholesale,37095.09,37095.09,0.0,Conciliado,2026-10-16,2026-10-20,4,Dentro de Política
+TX-100348,2026-10-26,Foods,Wholesale,5764.01,5764.01,0.0,Conciliado,2026-10-26,2026-10-27,1,Dentro de Política
+TX-100349,2026-10-16,Foods,Organized Trade,16088.52,16088.52,0.0,Conciliado,2026-10-16,2026-10-28,12,Excede Lead Time Máximo
+TX-100350,2026-10-25,C&NB,Organized Trade,688.95,688.95,0.0,Conciliado,2026-10-25,2026-11-04,10,Dentro de Política
+TX-100351,2026-10-20,Biscuits,C-Stores,34242.64,34242.64,0.0,Conciliado,2026-10-20,2026-10-27,7,Dentro de Política
+TX-100352,2026-10-28,Foods,DTS,8773.03,8773.03,0.0,Conciliado,2026-10-28,2026-10-31,3,Dentro de Política
+TX-100353,2026-10-17,Foods,Wholesale,32936.48,32936.48,0.0,Conciliado,2026-10-17,2026-10-21,4,Dentro de Política
+TX-100354,2026-10-02,Biscuits,Organized Trade,49591.26,49591.26,0.0,Conciliado,2026-10-02,2026-10-12,10,Dentro de Política
+TX-100355,2026-10-01,Foods,C-Stores,4097.21,4097.21,0.0,Conciliado,2026-10-01,2026-10-03,2,Dentro de Política
+TX-100356,2026-10-16,Savory,Organized Trade,4315.36,4315.36,0.0,Conciliado,2026-10-16,2026-10-30,14,Excede Lead Time Máximo
+TX-100357,2026-10-30,Savory,Wholesale,17348.81,17348.81,0.0,Conciliado,2026-10-30,2026-11-10,11,Excede Lead Time Máximo
+TX-100358,2026-10-12,Biscuits,Wholesale,43386.13,43386.13,0.0,Conciliado,2026-10-12,2026-10-17,5,Dentro de Política
+TX-100359,2026-10-05,C&NB,Away From Home,11168.73,11168.73,0.0,Conciliado,2026-10-05,2026-10-06,1,Dentro de Política
+TX-100360,2026-10-05,C&NB,DTS,18338.7,18338.7,0.0,Conciliado,2026-10-05,2026-10-17,12,Excede Lead Time Máximo
+TX-100361,2026-10-27,Biscuits,Away From Home,3891.02,3891.02,0.0,Conciliado,2026-10-27,2026-11-11,15,Excede Lead Time Máximo
+TX-100362,2026-10-23,Biscuits,C-Stores,38276.19,38276.19,0.0,Conciliado,2026-10-23,2026-11-07,15,Excede Lead Time Máximo
+TX-100363,2026-10-09,Savory,Organized Trade,20711.16,20711.16,0.0,Conciliado,2026-10-09,2026-10-15,6,Dentro de Política
+TX-100364,2026-10-09,C&NB,C-Stores,38082.81,39986.9505,-1904.14,Diferencia de Monto,2026-10-09,2026-10-10,1,Dentro de Política
+TX-100365,2026-10-03,Foods,Wholesale,45228.59,45228.59,0.0,Conciliado,2026-10-03,2026-10-14,11,Excede Lead Time Máximo
+TX-100366,2026-10-19,Savory,Away From Home,12021.78,12021.78,0.0,Conciliado,2026-10-19,2026-10-28,9,Dentro de Política
+TX-100367,2026-10-16,Biscuits,Away From Home,40466.1,40466.1,0.0,Conciliado,2026-10-16,2026-10-18,2,Dentro de Política
+TX-100368,2026-10-16,C&NB,Away From Home,3425.15,3425.15,0.0,Conciliado,2026-10-16,2026-10-29,13,Excede Lead Time Máximo
+TX-100369,2026-10-03,Foods,C-Stores,44992.95,44992.95,0.0,Conciliado,2026-10-03,2026-10-17,14,Excede Lead Time Máximo
+TX-100370,2026-10-20,Foods,Wholesale,32713.04,32713.04,0.0,Conciliado,2026-10-20,2026-10-24,4,Dentro de Política
+TX-100371,2026-10-24,Savory,Organized Trade,43774.22,43774.22,0.0,Conciliado,2026-10-24,2026-10-31,7,Dentro de Política
+TX-100372,2026-10-22,C&NB,Organized Trade,509.33,509.33,0.0,Conciliado,2026-10-22,2026-11-04,13,Excede Lead Time Máximo
+TX-100373,2026-10-24,C&NB,C-Stores,8869.51,8869.51,0.0,Conciliado,2026-10-24,2026-10-25,1,Dentro de Política
+TX-100374,2026-10-01,Biscuits,Away From Home,19793.09,19793.09,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100375,2026-10-24,C&NB,DTS,19285.39,19285.39,0.0,Conciliado,2026-10-24,2026-10-31,7,Dentro de Política
+TX-100376,2026-10-20,C&NB,C-Stores,11723.15,11723.15,0.0,Conciliado,2026-10-20,2026-10-26,6,Dentro de Política
+TX-100377,2026-10-11,Savory,C-Stores,19389.79,19389.79,0.0,Conciliado,2026-10-11,2026-10-23,12,Excede Lead Time Máximo
+TX-100378,2026-10-17,C&NB,Wholesale,6878.01,6878.01,0.0,Conciliado,2026-10-17,2026-10-25,8,Dentro de Política
+TX-100379,2026-10-08,Foods,Organized Trade,20931.68,20931.68,0.0,Conciliado,2026-10-08,2026-10-13,5,Dentro de Política
+TX-100380,2026-10-04,Savory,C-Stores,40216.54,40216.54,0.0,Conciliado,2026-10-04,2026-10-14,10,Dentro de Política
+TX-100381,2026-10-06,Savory,C-Stores,24213.97,24213.97,0.0,Conciliado,2026-10-06,2026-10-19,13,Excede Lead Time Máximo
+TX-100382,2026-10-08,Biscuits,Away From Home,1391.0,1391.0,0.0,Conciliado,2026-10-08,2026-10-09,1,Dentro de Política
+TX-100383,2026-10-20,C&NB,Away From Home,21361.48,21361.48,0.0,Conciliado,2026-10-20,2026-10-21,1,Dentro de Política
+TX-100384,2026-10-30,Biscuits,DTS,1845.16,1845.16,0.0,Conciliado,2026-10-30,2026-11-09,10,Dentro de Política
+TX-100385,2026-10-03,Foods,Wholesale,48329.05,48329.05,0.0,Conciliado,2026-10-03,2026-10-06,3,Dentro de Política
+TX-100386,2026-10-16,Savory,DTS,6808.97,6808.97,0.0,Conciliado,2026-10-16,2026-10-28,12,Excede Lead Time Máximo
+TX-100387,2026-10-30,Savory,Away From Home,35530.57,35530.57,0.0,Conciliado,2026-10-30,2026-11-02,3,Dentro de Política
+TX-100388,2026-10-25,Savory,Organized Trade,48652.43,48652.43,0.0,Conciliado,2026-10-25,2026-11-09,15,Excede Lead Time Máximo
+TX-100389,2026-10-03,Foods,Away From Home,41388.93,41388.93,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100390,2026-10-25,Foods,Wholesale,35116.11,35116.11,0.0,Conciliado,2026-10-25,2026-11-06,12,Excede Lead Time Máximo
+TX-100391,2026-10-29,Biscuits,Away From Home,42053.32,42053.32,0.0,Conciliado,2026-10-29,2026-11-05,7,Dentro de Política
+TX-100392,2026-10-18,Biscuits,Wholesale,49099.04,49099.04,0.0,Conciliado,2026-10-18,2026-10-25,7,Dentro de Política
+TX-100393,2026-10-14,Biscuits,Wholesale,31256.55,31256.55,0.0,Conciliado,2026-10-14,2026-10-28,14,Excede Lead Time Máximo
+TX-100394,2026-10-18,C&NB,Wholesale,28179.65,28179.65,0.0,Conciliado,2026-10-18,2026-10-29,11,Excede Lead Time Máximo
+TX-100395,2026-10-02,Savory,Wholesale,31597.79,31597.79,0.0,Conciliado,2026-10-02,2026-10-10,8,Dentro de Política
+TX-100396,2026-10-22,Savory,Wholesale,26867.46,26867.46,0.0,Conciliado,2026-10-22,2026-11-04,13,Excede Lead Time Máximo
+TX-100397,2026-10-03,Biscuits,Organized Trade,31936.91,31936.91,0.0,Conciliado,2026-10-03,2026-10-07,4,Dentro de Política
+TX-100398,2026-10-16,Savory,DTS,22767.19,22767.19,0.0,Conciliado,2026-10-16,2026-10-26,10,Dentro de Política
+TX-100399,2026-10-29,Biscuits,C-Stores,11312.94,11312.94,0.0,Conciliado,2026-10-29,2026-10-30,1,Dentro de Política
+TX-100400,2026-10-09,C&NB,DTS,6452.24,6452.24,0.0,Conciliado,2026-10-09,2026-10-17,8,Dentro de Política
+TX-100401,2026-10-04,C&NB,Wholesale,3882.88,3882.88,0.0,Conciliado,2026-10-04,2026-10-16,12,Excede Lead Time Máximo
+TX-100402,2026-10-01,Foods,Organized Trade,13534.13,13534.13,0.0,Conciliado,2026-10-01,2026-10-15,14,Excede Lead Time Máximo
+TX-100403,2026-10-04,C&NB,Away From Home,2783.12,2783.12,0.0,Conciliado,2026-10-04,2026-10-15,11,Excede Lead Time Máximo
+TX-100404,2026-10-01,Biscuits,Organized Trade,28574.95,28574.95,0.0,Conciliado,2026-10-01,2026-10-09,8,Dentro de Política
+TX-100405,2026-10-14,C&NB,Wholesale,14549.51,14549.51,0.0,Conciliado,2026-10-14,2026-10-24,10,Dentro de Política
+TX-100406,2026-10-21,Foods,Organized Trade,41314.47,41314.47,0.0,Conciliado,2026-10-21,2026-11-01,11,Excede Lead Time Máximo
+TX-100407,2026-10-16,Savory,Organized Trade,4174.92,4174.92,0.0,Conciliado,2026-10-16,2026-10-17,1,Dentro de Política
+TX-100408,2026-10-20,Biscuits,Wholesale,11704.4,11704.4,0.0,Conciliado,2026-10-20,2026-10-23,3,Dentro de Política
+TX-100409,2026-10-24,Savory,Organized Trade,36647.18,36647.18,0.0,Conciliado,2026-10-24,2026-10-27,3,Dentro de Política
+TX-100410,2026-10-08,Foods,C-Stores,30141.01,30141.01,0.0,Conciliado,2026-10-08,2026-10-19,11,Excede Lead Time Máximo
+TX-100411,2026-10-07,Foods,C-Stores,3692.32,3692.32,0.0,Conciliado,2026-10-07,2026-10-20,13,Excede Lead Time Máximo
+TX-100412,2026-10-03,Foods,Organized Trade,43923.35,43923.35,0.0,Conciliado,2026-10-03,2026-10-14,11,Excede Lead Time Máximo
+TX-100413,2026-10-17,Savory,Away From Home,43924.46,43924.46,0.0,Conciliado,2026-10-17,2026-10-18,1,Dentro de Política
+TX-100414,2026-10-01,Savory,Wholesale,16855.2,16855.2,0.0,Conciliado,2026-10-01,2026-10-07,6,Dentro de Política
+TX-100415,2026-10-16,Savory,C-Stores,17350.09,17350.09,0.0,Conciliado,2026-10-16,2026-10-25,9,Dentro de Política
+TX-100416,2026-10-12,Savory,Away From Home,49456.9,49456.9,0.0,Conciliado,2026-10-12,2026-10-24,12,Excede Lead Time Máximo
+TX-100417,2026-10-27,Foods,Organized Trade,31495.72,31495.72,0.0,Conciliado,2026-10-27,2026-10-28,1,Dentro de Política
+TX-100418,2026-10-19,Foods,Away From Home,26800.17,26800.17,0.0,Conciliado,2026-10-19,2026-10-25,6,Dentro de Política
+TX-100419,2026-10-22,Biscuits,DTS,41988.53,41988.53,0.0,Conciliado,2026-10-22,2026-11-01,10,Dentro de Política
+TX-100420,2026-10-23,Biscuits,C-Stores,14621.87,14621.87,0.0,Conciliado,2026-10-23,2026-10-27,4,Dentro de Política
+TX-100421,2026-10-22,Savory,Organized Trade,21744.54,21744.54,0.0,Conciliado,2026-10-22,2026-11-03,12,Excede Lead Time Máximo
+TX-100422,2026-10-14,C&NB,Wholesale,13754.95,13754.95,0.0,Conciliado,2026-10-14,2026-10-25,11,Excede Lead Time Máximo
+TX-100423,2026-10-30,C&NB,Organized Trade,39563.46,39563.46,0.0,Conciliado,2026-10-30,2026-11-09,10,Dentro de Política
+TX-100424,2026-10-06,Foods,Wholesale,28880.79,28880.79,0.0,Conciliado,2026-10-06,2026-10-13,7,Dentro de Política
+TX-100425,2026-10-06,Foods,Organized Trade,33111.84,33111.84,0.0,Conciliado,2026-10-06,2026-10-16,10,Dentro de Política
+TX-100426,2026-10-13,Foods,Away From Home,12989.21,12989.21,0.0,Conciliado,2026-10-13,2026-10-21,8,Dentro de Política
+TX-100427,2026-10-19,Biscuits,Away From Home,11401.15,11401.15,0.0,Conciliado,2026-10-19,2026-10-28,9,Dentro de Política
+TX-100428,2026-10-22,Biscuits,Away From Home,24674.54,24674.54,0.0,Conciliado,2026-10-22,2026-10-23,1,Dentro de Política
+TX-100429,2026-10-08,Foods,DTS,37009.5,37009.5,0.0,Conciliado,2026-10-08,2026-10-18,10,Dentro de Política
+TX-100430,2026-10-27,Foods,Wholesale,26499.37,26499.37,0.0,Conciliado,2026-10-27,2026-11-03,7,Dentro de Política
+TX-100431,2026-10-27,Foods,Away From Home,2115.96,2115.96,0.0,Conciliado,2026-10-27,2026-11-11,15,Excede Lead Time Máximo
+TX-100432,2026-10-02,C&NB,DTS,43493.3,43493.3,0.0,Conciliado,2026-10-02,2026-10-03,1,Dentro de Política
+TX-100433,2026-10-21,Biscuits,Wholesale,3702.0,3702.0,0.0,Conciliado,2026-10-21,2026-10-23,2,Dentro de Política
+TX-100434,2026-10-30,C&NB,Organized Trade,47813.31,47813.31,0.0,Conciliado,2026-10-30,2026-11-11,12,Excede Lead Time Máximo
+TX-100435,2026-10-01,C&NB,DTS,1744.53,1744.53,0.0,Conciliado,2026-10-01,2026-10-15,14,Excede Lead Time Máximo
+TX-100436,2026-10-28,Foods,C-Stores,34875.3,34875.3,0.0,Conciliado,2026-10-28,2026-10-29,1,Dentro de Política
+TX-100437,2026-10-15,Foods,DTS,4569.25,4569.25,0.0,Conciliado,2026-10-15,2026-10-17,2,Dentro de Política
+TX-100438,2026-10-01,Savory,DTS,45578.49,45578.49,0.0,Conciliado,2026-10-01,2026-10-12,11,Excede Lead Time Máximo
+TX-100439,2026-10-05,Savory,Wholesale,23489.45,23489.45,0.0,Conciliado,2026-10-05,2026-10-15,10,Dentro de Política
+TX-100440,2026-10-28,C&NB,Organized Trade,7307.43,7307.43,0.0,Conciliado,2026-10-28,2026-11-09,12,Excede Lead Time Máximo
+TX-100441,2026-10-29,Biscuits,C-Stores,17370.38,17370.38,0.0,Conciliado,2026-10-29,2026-11-03,5,Dentro de Política
+TX-100442,2026-10-16,Foods,Away From Home,8658.82,8658.82,0.0,Conciliado,2026-10-16,2026-10-27,11,Excede Lead Time Máximo
+TX-100443,2026-10-19,Foods,Away From Home,8943.8,8943.8,0.0,Conciliado,2026-10-19,2026-10-29,10,Dentro de Política
+TX-100444,2026-10-04,C&NB,DTS,47431.36,47431.36,0.0,Conciliado,2026-10-04,2026-10-05,1,Dentro de Política
+TX-100445,2026-10-03,Savory,Wholesale,22539.68,22539.68,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100446,2026-10-17,Biscuits,Wholesale,39545.71,39545.71,0.0,Conciliado,2026-10-17,2026-10-28,11,Excede Lead Time Máximo
+TX-100447,2026-10-17,Savory,Away From Home,32160.48,32160.48,0.0,Conciliado,2026-10-17,2026-10-25,8,Dentro de Política
+TX-100448,2026-10-12,Savory,C-Stores,33983.1,33983.1,0.0,Conciliado,2026-10-12,2026-10-22,10,Dentro de Política
+TX-100449,2026-10-28,Savory,Organized Trade,7018.83,7018.83,0.0,Conciliado,2026-10-28,2026-11-01,4,Dentro de Política
+TX-100450,2026-10-30,Savory,C-Stores,12092.13,12092.13,0.0,Conciliado,2026-10-30,2026-10-31,1,Dentro de Política
+TX-100451,2026-10-29,Foods,Organized Trade,39444.14,39444.14,0.0,Conciliado,2026-10-29,2026-11-07,9,Dentro de Política
+TX-100452,2026-10-14,Foods,Away From Home,48552.93,48552.93,0.0,Conciliado,2026-10-14,2026-10-16,2,Dentro de Política
+TX-100453,2026-10-21,Savory,Organized Trade,13502.44,13502.44,0.0,Conciliado,2026-10-21,2026-11-03,13,Excede Lead Time Máximo
+TX-100454,2026-10-06,Biscuits,Wholesale,13942.65,13942.65,0.0,Conciliado,2026-10-06,2026-10-18,12,Excede Lead Time Máximo
+TX-100455,2026-10-03,C&NB,DTS,23908.41,23908.41,0.0,Conciliado,2026-10-03,2026-10-17,14,Excede Lead Time Máximo
+TX-100456,2026-10-28,Biscuits,DTS,49200.1,49200.1,0.0,Conciliado,2026-10-28,2026-11-12,15,Excede Lead Time Máximo
+TX-100457,2026-10-09,Biscuits,Away From Home,13813.47,13813.47,0.0,Conciliado,2026-10-09,2026-10-22,13,Excede Lead Time Máximo
+TX-100458,2026-10-05,Biscuits,Wholesale,20645.11,,20645.11,Falta en Synapse,2026-10-05,2026-10-11,6,Dentro de Política
+TX-100459,2026-10-24,Savory,C-Stores,44628.26,44628.26,0.0,Conciliado,2026-10-24,2026-10-29,5,Dentro de Política
+TX-100460,2026-10-29,Foods,Wholesale,644.59,644.59,0.0,Conciliado,2026-10-29,2026-11-04,6,Dentro de Política
+TX-100461,2026-10-17,Biscuits,DTS,2468.42,2468.42,0.0,Conciliado,2026-10-17,2026-10-22,5,Dentro de Política
+TX-100462,2026-10-14,Savory,DTS,30401.55,30401.55,0.0,Conciliado,2026-10-14,2026-10-18,4,Dentro de Política
+TX-100463,2026-10-21,Biscuits,Wholesale,45415.32,45415.32,0.0,Conciliado,2026-10-21,2026-11-05,15,Excede Lead Time Máximo
+TX-100464,2026-10-03,Biscuits,Wholesale,12323.4,12323.4,0.0,Conciliado,2026-10-03,2026-10-18,15,Excede Lead Time Máximo
+TX-100465,2026-10-28,Savory,DTS,23747.27,23747.27,0.0,Conciliado,2026-10-28,2026-11-11,14,Excede Lead Time Máximo
+TX-100466,2026-10-01,Foods,C-Stores,22798.03,22798.03,0.0,Conciliado,2026-10-01,2026-10-16,15,Excede Lead Time Máximo
+TX-100467,2026-10-20,Foods,Away From Home,23912.08,23912.08,0.0,Conciliado,2026-10-20,2026-10-25,5,Dentro de Política
+TX-100468,2026-10-29,C&NB,Away From Home,31314.72,31314.72,0.0,Conciliado,2026-10-29,2026-11-03,5,Dentro de Política
+TX-100469,2026-10-21,Savory,Wholesale,23752.32,23752.32,0.0,Conciliado,2026-10-21,2026-10-23,2,Dentro de Política
+TX-100470,2026-10-23,C&NB,Away From Home,22649.67,22649.67,0.0,Conciliado,2026-10-23,2026-10-25,2,Dentro de Política
+TX-100471,2026-10-01,C&NB,DTS,23977.28,23977.28,0.0,Conciliado,2026-10-01,2026-10-04,3,Dentro de Política
+TX-100472,2026-10-03,C&NB,DTS,29747.94,29747.94,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100473,2026-10-18,Foods,Wholesale,27081.87,27081.87,0.0,Conciliado,2026-10-18,2026-10-20,2,Dentro de Política
+TX-100474,2026-10-25,Savory,Wholesale,42779.73,,42779.73,Falta en Synapse,2026-10-25,2026-10-28,3,Dentro de Política
+TX-100475,2026-10-10,C&NB,Wholesale,2950.09,2950.09,0.0,Conciliado,2026-10-10,2026-10-23,13,Excede Lead Time Máximo
+TX-100476,2026-10-22,Savory,C-Stores,41749.2,41749.2,0.0,Conciliado,2026-10-22,2026-11-04,13,Excede Lead Time Máximo
+TX-100477,2026-10-26,Savory,Away From Home,42274.27,42274.27,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100478,2026-10-03,Foods,Wholesale,14602.95,14602.95,0.0,Conciliado,2026-10-03,2026-10-18,15,Excede Lead Time Máximo
+TX-100479,2026-10-08,C&NB,Organized Trade,23411.17,23411.17,0.0,Conciliado,2026-10-08,2026-10-22,14,Excede Lead Time Máximo
+TX-100480,2026-10-14,C&NB,Organized Trade,22207.66,22207.66,0.0,Conciliado,2026-10-14,2026-10-17,3,Dentro de Política
+TX-100481,2026-10-24,Savory,DTS,11316.24,11316.24,0.0,Conciliado,2026-10-24,2026-10-30,6,Dentro de Política
+TX-100482,2026-10-18,Biscuits,Away From Home,20141.44,20141.44,0.0,Conciliado,2026-10-18,2026-10-27,9,Dentro de Política
+TX-100483,2026-10-15,Foods,Wholesale,2697.19,2697.19,0.0,Conciliado,2026-10-15,2026-10-17,2,Dentro de Política
+TX-100484,2026-10-22,Foods,Organized Trade,14252.19,14252.19,0.0,Conciliado,2026-10-22,2026-10-30,8,Dentro de Política
+TX-100485,2026-10-23,Foods,Away From Home,40925.77,40925.77,0.0,Conciliado,2026-10-23,2026-10-25,2,Dentro de Política
+TX-100486,2026-10-02,Foods,DTS,14585.83,15315.121500000001,-729.29,Diferencia de Monto,2026-10-02,2026-10-17,15,Excede Lead Time Máximo
+TX-100487,2026-10-27,C&NB,C-Stores,41001.23,41001.23,0.0,Conciliado,2026-10-27,2026-11-04,8,Dentro de Política
+TX-100488,2026-10-10,C&NB,Away From Home,26814.17,26814.17,0.0,Conciliado,2026-10-10,2026-10-12,2,Dentro de Política
+TX-100489,2026-10-02,Biscuits,Away From Home,44053.2,44053.2,0.0,Conciliado,2026-10-02,2026-10-13,11,Excede Lead Time Máximo
+TX-100490,2026-10-26,Foods,C-Stores,28951.59,28951.59,0.0,Conciliado,2026-10-26,2026-11-04,9,Dentro de Política
+TX-100491,2026-10-17,Foods,Away From Home,1968.58,1968.58,0.0,Conciliado,2026-10-17,2026-10-18,1,Dentro de Política
+TX-100492,2026-10-08,Savory,DTS,33933.3,33933.3,0.0,Conciliado,2026-10-08,2026-10-15,7,Dentro de Política
+TX-100493,2026-10-01,C&NB,DTS,2720.25,2720.25,0.0,Conciliado,2026-10-01,2026-10-09,8,Dentro de Política
+TX-100494,2026-10-09,Foods,C-Stores,22804.55,22804.55,0.0,Conciliado,2026-10-09,2026-10-15,6,Dentro de Política
+TX-100495,2026-10-11,Biscuits,Wholesale,46506.62,46506.62,0.0,Conciliado,2026-10-11,2026-10-13,2,Dentro de Política
+TX-100496,2026-10-22,Biscuits,Organized Trade,8677.59,8677.59,0.0,Conciliado,2026-10-22,2026-11-02,11,Excede Lead Time Máximo
+TX-100497,2026-10-16,C&NB,Wholesale,19798.68,19798.68,0.0,Conciliado,2026-10-16,2026-10-19,3,Dentro de Política
+TX-100498,2026-10-07,Biscuits,Away From Home,36628.09,36628.09,0.0,Conciliado,2026-10-07,2026-10-14,7,Dentro de Política
+TX-100499,2026-10-29,Biscuits,Organized Trade,44171.8,44171.8,0.0,Conciliado,2026-10-29,2026-10-31,2,Dentro de Política
+TX-100500,2026-10-10,C&NB,C-Stores,33711.68,33711.68,0.0,Conciliado,2026-10-10,2026-10-16,6,Dentro de Política
+TX-100501,2026-10-23,Foods,C-Stores,13279.58,13279.58,0.0,Conciliado,2026-10-23,2026-11-01,9,Dentro de Política
+TX-100502,2026-10-26,Foods,Organized Trade,33893.09,33893.09,0.0,Conciliado,2026-10-26,2026-11-09,14,Excede Lead Time Máximo
+TX-100503,2026-10-03,Biscuits,DTS,15188.02,15188.02,0.0,Conciliado,2026-10-03,2026-10-04,1,Dentro de Política
+TX-100504,2026-10-18,Biscuits,Organized Trade,36062.25,36062.25,0.0,Conciliado,2026-10-18,2026-10-22,4,Dentro de Política
+TX-100505,2026-10-25,Foods,Away From Home,47724.64,47724.64,0.0,Conciliado,2026-10-25,2026-11-04,10,Dentro de Política
+TX-100506,2026-10-24,C&NB,DTS,36208.98,36208.98,0.0,Conciliado,2026-10-24,2026-10-31,7,Dentro de Política
+TX-100507,2026-10-13,Biscuits,C-Stores,43212.58,43212.58,0.0,Conciliado,2026-10-13,2026-10-17,4,Dentro de Política
+TX-100508,2026-10-28,Savory,Organized Trade,604.14,604.14,0.0,Conciliado,2026-10-28,2026-10-29,1,Dentro de Política
+TX-100509,2026-10-26,C&NB,Wholesale,36019.82,36019.82,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100510,2026-10-07,Biscuits,Wholesale,41564.58,41564.58,0.0,Conciliado,2026-10-07,2026-10-16,9,Dentro de Política
+TX-100511,2026-10-25,Biscuits,Away From Home,2507.66,2507.66,0.0,Conciliado,2026-10-25,2026-11-04,10,Dentro de Política
+TX-100512,2026-10-04,Savory,Wholesale,43644.09,43644.09,0.0,Conciliado,2026-10-04,2026-10-15,11,Excede Lead Time Máximo
+TX-100513,2026-10-13,Savory,Organized Trade,13206.36,13206.36,0.0,Conciliado,2026-10-13,2026-10-24,11,Excede Lead Time Máximo
+TX-100514,2026-10-20,Foods,Organized Trade,33431.96,33431.96,0.0,Conciliado,2026-10-20,2026-10-31,11,Excede Lead Time Máximo
+TX-100515,2026-10-01,C&NB,Wholesale,40117.57,40117.57,0.0,Conciliado,2026-10-01,2026-10-10,9,Dentro de Política
+TX-100516,2026-10-08,C&NB,Organized Trade,33301.89,33301.89,0.0,Conciliado,2026-10-08,2026-10-21,13,Excede Lead Time Máximo
+TX-100517,2026-10-14,Foods,Away From Home,5068.1,5068.1,0.0,Conciliado,2026-10-14,2026-10-15,1,Dentro de Política
+TX-100518,2026-10-16,C&NB,DTS,30017.92,30017.92,0.0,Conciliado,2026-10-16,2026-10-24,8,Dentro de Política
+TX-100519,2026-10-14,C&NB,Away From Home,27704.39,27704.39,0.0,Conciliado,2026-10-14,2026-10-22,8,Dentro de Política
+TX-100520,2026-10-12,C&NB,Away From Home,45065.9,45065.9,0.0,Conciliado,2026-10-12,2026-10-17,5,Dentro de Política
+TX-100521,2026-10-19,C&NB,Organized Trade,20509.87,20509.87,0.0,Conciliado,2026-10-19,2026-10-26,7,Dentro de Política
+TX-100522,2026-10-23,C&NB,DTS,16393.51,16393.51,0.0,Conciliado,2026-10-23,2026-11-07,15,Excede Lead Time Máximo
+TX-100523,2026-10-15,Savory,Organized Trade,37617.61,37617.61,0.0,Conciliado,2026-10-15,2026-10-19,4,Dentro de Política
+TX-100524,2026-10-28,C&NB,C-Stores,20927.43,20927.43,0.0,Conciliado,2026-10-28,2026-11-02,5,Dentro de Política
+TX-100525,2026-10-02,Savory,Organized Trade,32481.76,32481.76,0.0,Conciliado,2026-10-02,2026-10-08,6,Dentro de Política
+TX-100526,2026-10-02,C&NB,Organized Trade,32499.28,32499.28,0.0,Conciliado,2026-10-02,2026-10-17,15,Excede Lead Time Máximo
+TX-100527,2026-10-23,Foods,Organized Trade,44457.93,44457.93,0.0,Conciliado,2026-10-23,2026-10-27,4,Dentro de Política
+TX-100528,2026-10-22,Biscuits,DTS,30135.27,30135.27,0.0,Conciliado,2026-10-22,2026-11-06,15,Excede Lead Time Máximo
+TX-100529,2026-10-19,Savory,Organized Trade,25356.6,25356.6,0.0,Conciliado,2026-10-19,2026-10-25,6,Dentro de Política
+TX-100530,2026-10-25,C&NB,DTS,7374.13,7374.13,0.0,Conciliado,2026-10-25,2026-11-04,10,Dentro de Política
+TX-100531,2026-10-26,Foods,Wholesale,6229.01,6229.01,0.0,Conciliado,2026-10-26,2026-11-10,15,Excede Lead Time Máximo
+TX-100532,2026-10-30,Biscuits,C-Stores,8138.92,8138.92,0.0,Conciliado,2026-10-30,2026-11-12,13,Excede Lead Time Máximo
+TX-100533,2026-10-29,Savory,DTS,9006.5,9006.5,0.0,Conciliado,2026-10-29,2026-11-01,3,Dentro de Política
+TX-100534,2026-10-22,Biscuits,Wholesale,32074.92,32074.92,0.0,Conciliado,2026-10-22,2026-10-26,4,Dentro de Política
+TX-100535,2026-10-26,Foods,DTS,37178.57,37178.57,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100536,2026-10-26,Savory,DTS,26734.58,26734.58,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100537,2026-10-22,Biscuits,C-Stores,41536.38,41536.38,0.0,Conciliado,2026-10-22,2026-10-28,6,Dentro de Política
+TX-100538,2026-10-17,C&NB,Away From Home,49567.53,49567.53,0.0,Conciliado,2026-10-17,2026-11-01,15,Excede Lead Time Máximo
+TX-100539,2026-10-20,Savory,Away From Home,41090.63,41090.63,0.0,Conciliado,2026-10-20,2026-10-29,9,Dentro de Política
+TX-100540,2026-10-10,Biscuits,DTS,34896.68,34896.68,0.0,Conciliado,2026-10-10,2026-10-15,5,Dentro de Política
+TX-100541,2026-10-06,Foods,Organized Trade,26858.39,26858.39,0.0,Conciliado,2026-10-06,2026-10-21,15,Excede Lead Time Máximo
+TX-100542,2026-10-15,Foods,Wholesale,22718.23,22718.23,0.0,Conciliado,2026-10-15,2026-10-17,2,Dentro de Política
+TX-100543,2026-10-22,Savory,Organized Trade,4677.42,4677.42,0.0,Conciliado,2026-10-22,2026-10-29,7,Dentro de Política
+TX-100544,2026-10-11,Biscuits,Organized Trade,20268.75,20268.75,0.0,Conciliado,2026-10-11,2026-10-22,11,Excede Lead Time Máximo
+TX-100545,2026-10-28,Savory,DTS,45551.66,45551.66,0.0,Conciliado,2026-10-28,2026-11-11,14,Excede Lead Time Máximo
+TX-100546,2026-10-05,Savory,DTS,40497.12,40497.12,0.0,Conciliado,2026-10-05,2026-10-13,8,Dentro de Política
+TX-100547,2026-10-01,Biscuits,DTS,11194.54,11194.54,0.0,Conciliado,2026-10-01,2026-10-03,2,Dentro de Política
+TX-100548,2026-10-08,Biscuits,DTS,23597.09,23597.09,0.0,Conciliado,2026-10-08,2026-10-21,13,Excede Lead Time Máximo
+TX-100549,2026-10-21,C&NB,Away From Home,40927.8,40927.8,0.0,Conciliado,2026-10-21,2026-11-01,11,Excede Lead Time Máximo
+TX-100550,2026-10-28,Biscuits,DTS,3835.54,3835.54,0.0,Conciliado,2026-10-28,2026-11-08,11,Excede Lead Time Máximo
+TX-100551,2026-10-12,Foods,Away From Home,19675.93,19675.93,0.0,Conciliado,2026-10-12,2026-10-20,8,Dentro de Política
+TX-100552,2026-10-12,Savory,Away From Home,42666.14,42666.14,0.0,Conciliado,2026-10-12,2026-10-24,12,Excede Lead Time Máximo
+TX-100553,2026-10-05,Savory,DTS,20492.94,20492.94,0.0,Conciliado,2026-10-05,2026-10-07,2,Dentro de Política
+TX-100554,2026-10-07,Foods,C-Stores,4341.92,4341.92,0.0,Conciliado,2026-10-07,2026-10-21,14,Excede Lead Time Máximo
+TX-100555,2026-10-04,Biscuits,Wholesale,27355.45,27355.45,0.0,Conciliado,2026-10-04,2026-10-07,3,Dentro de Política
+TX-100556,2026-10-06,Foods,Organized Trade,43156.25,43156.25,0.0,Conciliado,2026-10-06,2026-10-16,10,Dentro de Política
+TX-100557,2026-10-13,Foods,Away From Home,29719.13,29719.13,0.0,Conciliado,2026-10-13,2026-10-16,3,Dentro de Política
+TX-100558,2026-10-20,C&NB,Wholesale,11700.82,11700.82,0.0,Conciliado,2026-10-20,2026-10-28,8,Dentro de Política
+TX-100559,2026-10-30,Foods,C-Stores,19519.86,19519.86,0.0,Conciliado,2026-10-30,2026-11-11,12,Excede Lead Time Máximo
+TX-100560,2026-10-15,Savory,Organized Trade,22781.11,22781.11,0.0,Conciliado,2026-10-15,2026-10-30,15,Excede Lead Time Máximo
+TX-100561,2026-10-03,Foods,Organized Trade,29173.68,29173.68,0.0,Conciliado,2026-10-03,2026-10-14,11,Excede Lead Time Máximo
+TX-100562,2026-10-23,Savory,Away From Home,38087.88,38087.88,0.0,Conciliado,2026-10-23,2026-10-28,5,Dentro de Política
+TX-100563,2026-10-08,Savory,DTS,5394.24,5394.24,0.0,Conciliado,2026-10-08,2026-10-15,7,Dentro de Política
+TX-100564,2026-10-20,Savory,C-Stores,44537.78,44537.78,0.0,Conciliado,2026-10-20,2026-10-28,8,Dentro de Política
+TX-100565,2026-10-16,Biscuits,Away From Home,1109.33,1109.33,0.0,Conciliado,2026-10-16,2026-10-29,13,Excede Lead Time Máximo
+TX-100566,2026-10-13,C&NB,C-Stores,18817.59,18817.59,0.0,Conciliado,2026-10-13,2026-10-17,4,Dentro de Política
+TX-100567,2026-10-18,Savory,DTS,1857.31,1857.31,0.0,Conciliado,2026-10-18,2026-10-21,3,Dentro de Política
+TX-100568,2026-10-28,Savory,DTS,19952.22,19952.22,0.0,Conciliado,2026-10-28,2026-11-01,4,Dentro de Política
+TX-100569,2026-10-10,Biscuits,Away From Home,26527.72,26527.72,0.0,Conciliado,2026-10-10,2026-10-22,12,Excede Lead Time Máximo
+TX-100570,2026-10-30,Savory,DTS,25828.23,25828.23,0.0,Conciliado,2026-10-30,2026-11-09,10,Dentro de Política
+TX-100571,2026-10-19,Foods,Wholesale,8698.6,8698.6,0.0,Conciliado,2026-10-19,2026-10-22,3,Dentro de Política
+TX-100572,2026-10-17,Foods,Organized Trade,32464.16,32464.16,0.0,Conciliado,2026-10-17,2026-10-23,6,Dentro de Política
+TX-100573,2026-10-24,C&NB,Away From Home,2716.53,2716.53,0.0,Conciliado,2026-10-24,2026-10-25,1,Dentro de Política
+TX-100574,2026-10-19,Savory,C-Stores,38214.39,38214.39,0.0,Conciliado,2026-10-19,2026-10-27,8,Dentro de Política
+TX-100575,2026-10-28,Biscuits,Wholesale,47358.9,47358.9,0.0,Conciliado,2026-10-28,2026-10-31,3,Dentro de Política
+TX-100576,2026-10-26,Foods,Away From Home,17318.56,17318.56,0.0,Conciliado,2026-10-26,2026-11-09,14,Excede Lead Time Máximo
+TX-100577,2026-10-23,Biscuits,DTS,26103.35,26103.35,0.0,Conciliado,2026-10-23,2026-10-30,7,Dentro de Política
+TX-100578,2026-10-26,Biscuits,DTS,19256.06,19256.06,0.0,Conciliado,2026-10-26,2026-11-06,11,Excede Lead Time Máximo
+TX-100579,2026-10-05,Foods,DTS,832.16,832.16,0.0,Conciliado,2026-10-05,2026-10-18,13,Excede Lead Time Máximo
+TX-100580,2026-10-26,Biscuits,DTS,19600.79,19600.79,0.0,Conciliado,2026-10-26,2026-11-01,6,Dentro de Política
+TX-100581,2026-10-21,Foods,C-Stores,39690.15,39690.15,0.0,Conciliado,2026-10-21,2026-11-05,15,Excede Lead Time Máximo
+TX-100582,2026-10-30,Biscuits,Wholesale,30001.45,30001.45,0.0,Conciliado,2026-10-30,2026-11-07,8,Dentro de Política
+TX-100583,2026-10-23,Foods,Organized Trade,5512.37,5512.37,0.0,Conciliado,2026-10-23,2026-10-27,4,Dentro de Política
+TX-100584,2026-10-09,Savory,C-Stores,42433.4,42433.4,0.0,Conciliado,2026-10-09,2026-10-17,8,Dentro de Política
+TX-100585,2026-10-12,C&NB,C-Stores,26788.72,26788.72,0.0,Conciliado,2026-10-12,2026-10-13,1,Dentro de Política
+TX-100586,2026-10-21,Foods,Organized Trade,42165.31,42165.31,0.0,Conciliado,2026-10-21,2026-10-25,4,Dentro de Política
+TX-100587,2026-10-01,Foods,Organized Trade,29220.97,29220.97,0.0,Conciliado,2026-10-01,2026-10-08,7,Dentro de Política
+TX-100588,2026-10-26,C&NB,DTS,28204.58,28204.58,0.0,Conciliado,2026-10-26,2026-11-07,12,Excede Lead Time Máximo
+TX-100589,2026-10-26,Foods,C-Stores,5710.33,5710.33,0.0,Conciliado,2026-10-26,2026-10-27,1,Dentro de Política
+TX-100590,2026-10-01,Foods,Away From Home,8784.31,8784.31,0.0,Conciliado,2026-10-01,2026-10-09,8,Dentro de Política
+TX-100591,2026-10-15,Biscuits,Organized Trade,48615.25,48615.25,0.0,Conciliado,2026-10-15,2026-10-18,3,Dentro de Política
+TX-100592,2026-10-02,C&NB,Organized Trade,11810.09,11810.09,0.0,Conciliado,2026-10-02,2026-10-12,10,Dentro de Política
+TX-100593,2026-10-30,Savory,Wholesale,48883.88,48883.88,0.0,Conciliado,2026-10-30,2026-11-05,6,Dentro de Política
+TX-100594,2026-10-22,Foods,Away From Home,26829.68,26829.68,0.0,Conciliado,2026-10-22,2026-10-24,2,Dentro de Política
+TX-100595,2026-10-16,C&NB,Away From Home,7221.56,7221.56,0.0,Conciliado,2026-10-16,2026-10-17,1,Dentro de Política
+TX-100596,2026-10-25,Biscuits,Organized Trade,5415.46,5415.46,0.0,Conciliado,2026-10-25,2026-10-28,3,Dentro de Política
+TX-100597,2026-10-08,Savory,DTS,10838.77,11380.7085,-541.94,Diferencia de Monto,2026-10-08,2026-10-12,4,Dentro de Política
+TX-100598,2026-10-13,C&NB,Wholesale,46319.05,46319.05,0.0,Conciliado,2026-10-13,2026-10-15,2,Dentro de Política
+TX-100599,2026-10-21,Savory,Away From Home,21000.44,21000.44,0.0,Conciliado,2026-10-21,2026-10-26,5,Dentro de Política
+TX-100600,2026-10-01,Savory,Organized Trade,20074.0,20074.0,0.0,Conciliado,2026-10-01,2026-10-04,3,Dentro de Política
+TX-100601,2026-10-16,Savory,Away From Home,16003.71,16003.71,0.0,Conciliado,2026-10-16,2026-10-17,1,Dentro de Política
+TX-100602,2026-10-29,Foods,Wholesale,7779.56,7779.56,0.0,Conciliado,2026-10-29,2026-11-01,3,Dentro de Política
+TX-100603,2026-10-07,Foods,Wholesale,24648.63,24648.63,0.0,Conciliado,2026-10-07,2026-10-16,9,Dentro de Política
+TX-100604,2026-10-05,Biscuits,C-Stores,6937.37,6937.37,0.0,Conciliado,2026-10-05,2026-10-14,9,Dentro de Política
+TX-100605,2026-10-22,Biscuits,Organized Trade,41856.27,41856.27,0.0,Conciliado,2026-10-22,2026-10-31,9,Dentro de Política
+TX-100606,2026-10-29,C&NB,Wholesale,18834.65,18834.65,0.0,Conciliado,2026-10-29,2026-11-05,7,Dentro de Política
+TX-100607,2026-10-23,Biscuits,C-Stores,19052.78,19052.78,0.0,Conciliado,2026-10-23,2026-10-29,6,Dentro de Política
+TX-100608,2026-10-03,Savory,C-Stores,23963.32,23963.32,0.0,Conciliado,2026-10-03,2026-10-15,12,Excede Lead Time Máximo
+TX-100609,2026-10-12,Savory,Away From Home,22484.32,22484.32,0.0,Conciliado,2026-10-12,2026-10-21,9,Dentro de Política
+TX-100610,2026-10-26,Foods,Away From Home,49745.47,49745.47,0.0,Conciliado,2026-10-26,2026-11-04,9,Dentro de Política
+TX-100611,2026-10-16,Savory,C-Stores,27496.37,27496.37,0.0,Conciliado,2026-10-16,2026-10-25,9,Dentro de Política
+TX-100612,2026-10-19,C&NB,Away From Home,4865.98,4865.98,0.0,Conciliado,2026-10-19,2026-10-30,11,Excede Lead Time Máximo
+TX-100613,2026-10-05,Savory,Wholesale,30540.43,30540.43,0.0,Conciliado,2026-10-05,2026-10-06,1,Dentro de Política
+TX-100614,2026-10-22,Savory,DTS,8003.42,8003.42,0.0,Conciliado,2026-10-22,2026-10-29,7,Dentro de Política
+TX-100615,2026-10-25,C&NB,Wholesale,2031.41,2031.41,0.0,Conciliado,2026-10-25,2026-11-07,13,Excede Lead Time Máximo
+TX-100616,2026-10-29,Biscuits,C-Stores,48551.74,48551.74,0.0,Conciliado,2026-10-29,2026-11-09,11,Excede Lead Time Máximo
+TX-100617,2026-10-14,Biscuits,C-Stores,38790.18,38790.18,0.0,Conciliado,2026-10-14,2026-10-29,15,Excede Lead Time Máximo
+TX-100618,2026-10-28,C&NB,Wholesale,49015.4,49015.4,0.0,Conciliado,2026-10-28,2026-10-30,2,Dentro de Política
+TX-100619,2026-10-05,Foods,Away From Home,24154.98,24154.98,0.0,Conciliado,2026-10-05,2026-10-17,12,Excede Lead Time Máximo
+TX-100620,2026-10-15,Savory,Away From Home,26846.75,26846.75,0.0,Conciliado,2026-10-15,2026-10-18,3,Dentro de Política
+TX-100621,2026-10-17,C&NB,C-Stores,8832.68,8832.68,0.0,Conciliado,2026-10-17,2026-10-26,9,Dentro de Política
+TX-100622,2026-10-30,Savory,Organized Trade,12721.92,12721.92,0.0,Conciliado,2026-10-30,2026-11-12,13,Excede Lead Time Máximo
+TX-100623,2026-10-14,Foods,Away From Home,42008.19,42008.19,0.0,Conciliado,2026-10-14,2026-10-18,4,Dentro de Política
+TX-100624,2026-10-30,Savory,Wholesale,18131.19,18131.19,0.0,Conciliado,2026-10-30,2026-11-13,14,Excede Lead Time Máximo
+TX-100625,2026-10-20,C&NB,Away From Home,41427.34,41427.34,0.0,Conciliado,2026-10-20,2026-11-03,14,Excede Lead Time Máximo
+TX-100626,2026-10-05,Savory,Wholesale,35596.18,37375.989,-1779.81,Diferencia de Monto,2026-10-05,2026-10-15,10,Dentro de Política
+TX-100627,2026-10-12,Biscuits,C-Stores,9269.96,9269.96,0.0,Conciliado,2026-10-12,2026-10-26,14,Excede Lead Time Máximo
+TX-100628,2026-10-16,Foods,Away From Home,25618.6,25618.6,0.0,Conciliado,2026-10-16,2026-10-25,9,Dentro de Política
+TX-100629,2026-10-26,Foods,Wholesale,34030.67,34030.67,0.0,Conciliado,2026-10-26,2026-11-02,7,Dentro de Política
+TX-100630,2026-10-26,Foods,C-Stores,12134.34,12134.34,0.0,Conciliado,2026-10-26,2026-11-03,8,Dentro de Política
+TX-100631,2026-10-16,C&NB,Organized Trade,41619.08,41619.08,0.0,Conciliado,2026-10-16,2026-10-22,6,Dentro de Política
+TX-100632,2026-10-21,Foods,Wholesale,27468.97,27468.97,0.0,Conciliado,2026-10-21,2026-10-23,2,Dentro de Política
+TX-100633,2026-10-07,Biscuits,Organized Trade,8679.48,8679.48,0.0,Conciliado,2026-10-07,2026-10-14,7,Dentro de Política
+TX-100634,2026-10-04,C&NB,Organized Trade,29357.73,29357.73,0.0,Conciliado,2026-10-04,2026-10-14,10,Dentro de Política
+TX-100635,2026-10-01,Biscuits,DTS,49985.83,49985.83,0.0,Conciliado,2026-10-01,2026-10-08,7,Dentro de Política
+TX-100636,2026-10-30,Savory,Away From Home,7950.81,7950.81,0.0,Conciliado,2026-10-30,2026-11-13,14,Excede Lead Time Máximo
+TX-100637,2026-10-30,Savory,Wholesale,40929.47,40929.47,0.0,Conciliado,2026-10-30,2026-11-11,12,Excede Lead Time Máximo
+TX-100638,2026-10-05,Savory,Organized Trade,10761.8,10761.8,0.0,Conciliado,2026-10-05,2026-10-13,8,Dentro de Política
+TX-100639,2026-10-23,Savory,DTS,39228.22,39228.22,0.0,Conciliado,2026-10-23,2026-11-02,10,Dentro de Política
+TX-100640,2026-10-26,Biscuits,C-Stores,36861.61,36861.61,0.0,Conciliado,2026-10-26,2026-11-01,6,Dentro de Política
+TX-100641,2026-10-10,C&NB,Wholesale,15374.22,15374.22,0.0,Conciliado,2026-10-10,2026-10-20,10,Dentro de Política
+TX-100642,2026-10-22,C&NB,Organized Trade,16628.24,16628.24,0.0,Conciliado,2026-10-22,2026-11-06,15,Excede Lead Time Máximo
+TX-100643,2026-10-05,Foods,Away From Home,39729.81,39729.81,0.0,Conciliado,2026-10-05,2026-10-08,3,Dentro de Política
+TX-100644,2026-10-04,Biscuits,DTS,23341.55,23341.55,0.0,Conciliado,2026-10-04,2026-10-09,5,Dentro de Política
+TX-100645,2026-10-02,Savory,Organized Trade,36675.49,36675.49,0.0,Conciliado,2026-10-02,2026-10-13,11,Excede Lead Time Máximo
+TX-100646,2026-10-20,Biscuits,Away From Home,7825.22,7825.22,0.0,Conciliado,2026-10-20,2026-10-29,9,Dentro de Política
+TX-100647,2026-10-10,Foods,Organized Trade,42701.61,42701.61,0.0,Conciliado,2026-10-10,2026-10-20,10,Dentro de Política
+TX-100648,2026-10-26,Foods,Wholesale,35688.79,35688.79,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100649,2026-10-19,Biscuits,Wholesale,45393.67,45393.67,0.0,Conciliado,2026-10-19,2026-10-20,1,Dentro de Política
+TX-100650,2026-10-26,Biscuits,Wholesale,7052.43,7052.43,0.0,Conciliado,2026-10-26,2026-11-06,11,Excede Lead Time Máximo
+TX-100651,2026-10-01,Biscuits,DTS,29854.22,29854.22,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100652,2026-10-24,C&NB,Wholesale,30156.47,30156.47,0.0,Conciliado,2026-10-24,2026-10-31,7,Dentro de Política
+TX-100653,2026-10-05,Savory,Away From Home,17996.31,17996.31,0.0,Conciliado,2026-10-05,2026-10-20,15,Excede Lead Time Máximo
+TX-100654,2026-10-13,Biscuits,Organized Trade,23194.09,23194.09,0.0,Conciliado,2026-10-13,2026-10-22,9,Dentro de Política
+TX-100655,2026-10-04,Biscuits,C-Stores,2380.09,2380.09,0.0,Conciliado,2026-10-04,2026-10-19,15,Excede Lead Time Máximo
+TX-100656,2026-10-16,Biscuits,Away From Home,37420.07,37420.07,0.0,Conciliado,2026-10-16,2026-10-23,7,Dentro de Política
+TX-100657,2026-10-24,Foods,Away From Home,27691.46,27691.46,0.0,Conciliado,2026-10-24,2026-10-29,5,Dentro de Política
+TX-100658,2026-10-16,Foods,Wholesale,3358.18,3358.18,0.0,Conciliado,2026-10-16,2026-10-24,8,Dentro de Política
+TX-100659,2026-10-23,C&NB,DTS,34197.42,34197.42,0.0,Conciliado,2026-10-23,2026-11-03,11,Excede Lead Time Máximo
+TX-100660,2026-10-02,Savory,Organized Trade,23605.71,23605.71,0.0,Conciliado,2026-10-02,2026-10-10,8,Dentro de Política
+TX-100661,2026-10-17,C&NB,DTS,2205.83,2205.83,0.0,Conciliado,2026-10-17,2026-10-18,1,Dentro de Política
+TX-100662,2026-10-28,Savory,Organized Trade,48495.58,48495.58,0.0,Conciliado,2026-10-28,2026-11-04,7,Dentro de Política
+TX-100663,2026-10-27,Foods,Organized Trade,47481.05,47481.05,0.0,Conciliado,2026-10-27,2026-11-01,5,Dentro de Política
+TX-100664,2026-10-20,Foods,DTS,25888.67,25888.67,0.0,Conciliado,2026-10-20,2026-11-04,15,Excede Lead Time Máximo
+TX-100665,2026-10-24,Foods,Away From Home,5136.78,5136.78,0.0,Conciliado,2026-10-24,2026-11-07,14,Excede Lead Time Máximo
+TX-100666,2026-10-12,C&NB,Organized Trade,37853.75,37853.75,0.0,Conciliado,2026-10-12,2026-10-22,10,Dentro de Política
+TX-100667,2026-10-18,Biscuits,DTS,24850.59,24850.59,0.0,Conciliado,2026-10-18,2026-10-31,13,Excede Lead Time Máximo
+TX-100668,2026-10-03,Biscuits,Organized Trade,15471.15,15471.15,0.0,Conciliado,2026-10-03,2026-10-11,8,Dentro de Política
+TX-100669,2026-10-28,Foods,C-Stores,24825.2,24825.2,0.0,Conciliado,2026-10-28,2026-11-08,11,Excede Lead Time Máximo
+TX-100670,2026-10-01,Biscuits,Away From Home,26360.99,26360.99,0.0,Conciliado,2026-10-01,2026-10-03,2,Dentro de Política
+TX-100671,2026-10-01,Biscuits,Wholesale,28354.23,28354.23,0.0,Conciliado,2026-10-01,2026-10-07,6,Dentro de Política
+TX-100672,2026-10-29,C&NB,Organized Trade,22340.57,22340.57,0.0,Conciliado,2026-10-29,2026-10-31,2,Dentro de Política
+TX-100673,2026-10-19,Savory,C-Stores,30484.89,30484.89,0.0,Conciliado,2026-10-19,2026-11-01,13,Excede Lead Time Máximo
+TX-100674,2026-10-11,Foods,Wholesale,45977.37,45977.37,0.0,Conciliado,2026-10-11,2026-10-15,4,Dentro de Política
+TX-100675,2026-10-05,Foods,Wholesale,18432.27,18432.27,0.0,Conciliado,2026-10-05,2026-10-12,7,Dentro de Política
+TX-100676,2026-10-12,C&NB,Organized Trade,36422.96,38244.108,-1821.15,Diferencia de Monto,2026-10-12,2026-10-16,4,Dentro de Política
+TX-100677,2026-10-03,C&NB,DTS,44775.4,44775.4,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100678,2026-10-01,Biscuits,Organized Trade,23070.97,23070.97,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100679,2026-10-01,Foods,C-Stores,22451.06,22451.06,0.0,Conciliado,2026-10-01,2026-10-09,8,Dentro de Política
+TX-100680,2026-10-08,Savory,Wholesale,30304.79,30304.79,0.0,Conciliado,2026-10-08,2026-10-09,1,Dentro de Política
+TX-100681,2026-10-10,C&NB,Organized Trade,29774.63,29774.63,0.0,Conciliado,2026-10-10,2026-10-21,11,Excede Lead Time Máximo
+TX-100682,2026-10-11,Savory,DTS,40426.17,40426.17,0.0,Conciliado,2026-10-11,2026-10-22,11,Excede Lead Time Máximo
+TX-100683,2026-10-12,Savory,Organized Trade,24085.93,24085.93,0.0,Conciliado,2026-10-12,2026-10-16,4,Dentro de Política
+TX-100684,2026-10-29,Foods,Away From Home,49808.09,49808.09,0.0,Conciliado,2026-10-29,2026-11-01,3,Dentro de Política
+TX-100685,2026-10-13,Foods,DTS,3443.84,3443.84,0.0,Conciliado,2026-10-13,2026-10-21,8,Dentro de Política
+TX-100686,2026-10-12,C&NB,C-Stores,656.81,656.81,0.0,Conciliado,2026-10-12,2026-10-18,6,Dentro de Política
+TX-100687,2026-10-14,Foods,Wholesale,32189.82,32189.82,0.0,Conciliado,2026-10-14,2026-10-28,14,Excede Lead Time Máximo
+TX-100688,2026-10-02,Foods,Organized Trade,15272.53,15272.53,0.0,Conciliado,2026-10-02,2026-10-04,2,Dentro de Política
+TX-100689,2026-10-29,Foods,DTS,12398.93,12398.93,0.0,Conciliado,2026-10-29,2026-11-12,14,Excede Lead Time Máximo
+TX-100690,2026-10-19,Savory,Away From Home,15939.0,15939.0,0.0,Conciliado,2026-10-19,2026-11-01,13,Excede Lead Time Máximo
+TX-100691,2026-10-18,C&NB,DTS,13174.35,13174.35,0.0,Conciliado,2026-10-18,2026-10-25,7,Dentro de Política
+TX-100692,2026-10-03,Biscuits,Away From Home,2024.11,2024.11,0.0,Conciliado,2026-10-03,2026-10-09,6,Dentro de Política
+TX-100693,2026-10-23,Savory,C-Stores,48590.89,48590.89,0.0,Conciliado,2026-10-23,2026-10-27,4,Dentro de Política
+TX-100694,2026-10-17,Foods,Wholesale,11426.9,11426.9,0.0,Conciliado,2026-10-17,2026-10-25,8,Dentro de Política
+TX-100695,2026-10-26,Savory,C-Stores,36834.47,36834.47,0.0,Conciliado,2026-10-26,2026-11-07,12,Excede Lead Time Máximo
+TX-100696,2026-10-08,Foods,Organized Trade,38248.52,38248.52,0.0,Conciliado,2026-10-08,2026-10-11,3,Dentro de Política
+TX-100697,2026-10-29,Foods,DTS,46498.24,46498.24,0.0,Conciliado,2026-10-29,2026-11-02,4,Dentro de Política
+TX-100698,2026-10-26,Savory,Away From Home,2012.2,2012.2,0.0,Conciliado,2026-10-26,2026-10-31,5,Dentro de Política
+TX-100699,2026-10-10,C&NB,Away From Home,43666.39,43666.39,0.0,Conciliado,2026-10-10,2026-10-17,7,Dentro de Política
+TX-100700,2026-10-26,Foods,DTS,26597.7,26597.7,0.0,Conciliado,2026-10-26,2026-10-31,5,Dentro de Política
+TX-100701,2026-10-30,C&NB,DTS,31810.93,31810.93,0.0,Conciliado,2026-10-30,2026-11-02,3,Dentro de Política
+TX-100702,2026-10-02,Biscuits,Organized Trade,32401.28,32401.28,0.0,Conciliado,2026-10-02,2026-10-14,12,Excede Lead Time Máximo
+TX-100703,2026-10-19,Foods,C-Stores,41079.99,41079.99,0.0,Conciliado,2026-10-19,2026-10-26,7,Dentro de Política
+TX-100704,2026-10-09,C&NB,Away From Home,17003.66,17003.66,0.0,Conciliado,2026-10-09,2026-10-18,9,Dentro de Política
+TX-100705,2026-10-07,C&NB,Organized Trade,36786.03,36786.03,0.0,Conciliado,2026-10-07,2026-10-16,9,Dentro de Política
+TX-100706,2026-10-04,Biscuits,C-Stores,26664.62,26664.62,0.0,Conciliado,2026-10-04,2026-10-15,11,Excede Lead Time Máximo
+TX-100707,2026-10-26,C&NB,Organized Trade,39773.0,39773.0,0.0,Conciliado,2026-10-26,2026-11-05,10,Dentro de Política
+TX-100708,2026-10-21,C&NB,Away From Home,49532.03,49532.03,0.0,Conciliado,2026-10-21,2026-10-31,10,Dentro de Política
+TX-100709,2026-10-18,Biscuits,DTS,10432.23,10432.23,0.0,Conciliado,2026-10-18,2026-10-23,5,Dentro de Política
+TX-100710,2026-10-13,Foods,DTS,49735.11,49735.11,0.0,Conciliado,2026-10-13,2026-10-18,5,Dentro de Política
+TX-100711,2026-10-11,C&NB,C-Stores,4945.7,4945.7,0.0,Conciliado,2026-10-11,2026-10-24,13,Excede Lead Time Máximo
+TX-100712,2026-10-29,C&NB,Wholesale,614.72,614.72,0.0,Conciliado,2026-10-29,2026-11-06,8,Dentro de Política
+TX-100713,2026-10-24,C&NB,C-Stores,2686.02,2686.02,0.0,Conciliado,2026-10-24,2026-10-26,2,Dentro de Política
+TX-100714,2026-10-04,Savory,Wholesale,17418.23,17418.23,0.0,Conciliado,2026-10-04,2026-10-12,8,Dentro de Política
+TX-100715,2026-10-25,Biscuits,Organized Trade,31828.86,31828.86,0.0,Conciliado,2026-10-25,2026-11-08,14,Excede Lead Time Máximo
+TX-100716,2026-10-21,Savory,Organized Trade,3916.96,3916.96,0.0,Conciliado,2026-10-21,2026-10-30,9,Dentro de Política
+TX-100717,2026-10-29,Biscuits,Away From Home,780.46,780.46,0.0,Conciliado,2026-10-29,2026-11-10,12,Excede Lead Time Máximo
+TX-100718,2026-10-25,Foods,Wholesale,46886.01,46886.01,0.0,Conciliado,2026-10-25,2026-10-26,1,Dentro de Política
+TX-100719,2026-10-04,Foods,Away From Home,41185.37,41185.37,0.0,Conciliado,2026-10-04,2026-10-13,9,Dentro de Política
+TX-100720,2026-10-10,C&NB,DTS,40554.57,40554.57,0.0,Conciliado,2026-10-10,2026-10-20,10,Dentro de Política
+TX-100721,2026-10-05,Biscuits,Wholesale,44279.0,44279.0,0.0,Conciliado,2026-10-05,2026-10-16,11,Excede Lead Time Máximo
+TX-100722,2026-10-09,Foods,C-Stores,35151.7,35151.7,0.0,Conciliado,2026-10-09,2026-10-15,6,Dentro de Política
+TX-100723,2026-10-24,Biscuits,DTS,5668.0,5668.0,0.0,Conciliado,2026-10-24,2026-11-01,8,Dentro de Política
+TX-100724,2026-10-03,Foods,DTS,20255.46,20255.46,0.0,Conciliado,2026-10-03,2026-10-18,15,Excede Lead Time Máximo
+TX-100725,2026-10-17,Savory,C-Stores,36295.9,36295.9,0.0,Conciliado,2026-10-17,2026-10-20,3,Dentro de Política
+TX-100726,2026-10-03,Foods,DTS,14376.56,14376.56,0.0,Conciliado,2026-10-03,2026-10-07,4,Dentro de Política
+TX-100727,2026-10-16,Savory,Wholesale,34526.62,34526.62,0.0,Conciliado,2026-10-16,2026-10-31,15,Excede Lead Time Máximo
+TX-100728,2026-10-04,Foods,Away From Home,1712.67,1712.67,0.0,Conciliado,2026-10-04,2026-10-10,6,Dentro de Política
+TX-100729,2026-10-18,C&NB,DTS,15653.8,15653.8,0.0,Conciliado,2026-10-18,2026-10-22,4,Dentro de Política
+TX-100730,2026-10-17,Savory,Wholesale,27681.95,27681.95,0.0,Conciliado,2026-10-17,2026-10-18,1,Dentro de Política
+TX-100731,2026-10-07,Foods,Organized Trade,31788.45,31788.45,0.0,Conciliado,2026-10-07,2026-10-15,8,Dentro de Política
+TX-100732,2026-10-24,C&NB,Wholesale,29063.51,29063.51,0.0,Conciliado,2026-10-24,2026-11-01,8,Dentro de Política
+TX-100733,2026-10-23,Savory,Away From Home,35038.94,35038.94,0.0,Conciliado,2026-10-23,2026-11-01,9,Dentro de Política
+TX-100734,2026-10-30,C&NB,Wholesale,801.39,801.39,0.0,Conciliado,2026-10-30,2026-11-02,3,Dentro de Política
+TX-100735,2026-10-05,Biscuits,C-Stores,5496.59,5496.59,0.0,Conciliado,2026-10-05,2026-10-06,1,Dentro de Política
+TX-100736,2026-10-12,Biscuits,Away From Home,43512.74,43512.74,0.0,Conciliado,2026-10-12,2026-10-16,4,Dentro de Política
+TX-100737,2026-10-17,Savory,Organized Trade,34246.56,34246.56,0.0,Conciliado,2026-10-17,2026-10-19,2,Dentro de Política
+TX-100738,2026-10-23,Foods,C-Stores,6090.12,6090.12,0.0,Conciliado,2026-10-23,2026-11-02,10,Dentro de Política
+TX-100739,2026-10-13,Savory,Wholesale,42182.68,42182.68,0.0,Conciliado,2026-10-13,2026-10-14,1,Dentro de Política
+TX-100740,2026-10-23,C&NB,Away From Home,12490.45,12490.45,0.0,Conciliado,2026-10-23,2026-10-24,1,Dentro de Política
+TX-100741,2026-10-25,Foods,Organized Trade,24173.86,24173.86,0.0,Conciliado,2026-10-25,2026-11-08,14,Excede Lead Time Máximo
+TX-100742,2026-10-03,Biscuits,C-Stores,7687.23,7687.23,0.0,Conciliado,2026-10-03,2026-10-06,3,Dentro de Política
+TX-100743,2026-10-09,Foods,Organized Trade,35650.45,35650.45,0.0,Conciliado,2026-10-09,2026-10-23,14,Excede Lead Time Máximo
+TX-100744,2026-10-30,Biscuits,Wholesale,33509.29,33509.29,0.0,Conciliado,2026-10-30,2026-11-04,5,Dentro de Política
+TX-100745,2026-10-17,Foods,Organized Trade,10950.07,10950.07,0.0,Conciliado,2026-10-17,2026-10-20,3,Dentro de Política
+TX-100746,2026-10-17,Foods,DTS,43238.34,43238.34,0.0,Conciliado,2026-10-17,2026-10-27,10,Dentro de Política
+TX-100747,2026-10-30,Foods,C-Stores,20364.65,20364.65,0.0,Conciliado,2026-10-30,2026-11-09,10,Dentro de Política
+TX-100748,2026-10-20,C&NB,Organized Trade,14979.5,14979.5,0.0,Conciliado,2026-10-20,2026-10-28,8,Dentro de Política
+TX-100749,2026-10-16,C&NB,Wholesale,8040.31,8040.31,0.0,Conciliado,2026-10-16,2026-10-18,2,Dentro de Política
+TX-100750,2026-10-25,Savory,Wholesale,13675.32,13675.32,0.0,Conciliado,2026-10-25,2026-11-05,11,Excede Lead Time Máximo
+TX-100751,2026-10-22,Savory,Organized Trade,1590.33,1590.33,0.0,Conciliado,2026-10-22,2026-10-26,4,Dentro de Política
+TX-100752,2026-10-13,Biscuits,Wholesale,29371.25,29371.25,0.0,Conciliado,2026-10-13,2026-10-19,6,Dentro de Política
+TX-100753,2026-10-27,C&NB,Away From Home,42190.42,42190.42,0.0,Conciliado,2026-10-27,2026-11-01,5,Dentro de Política
+TX-100754,2026-10-19,Biscuits,Away From Home,27674.53,27674.53,0.0,Conciliado,2026-10-19,2026-10-30,11,Excede Lead Time Máximo
+TX-100755,2026-10-17,Savory,Away From Home,11354.06,11354.06,0.0,Conciliado,2026-10-17,2026-10-30,13,Excede Lead Time Máximo
+TX-100756,2026-10-04,Biscuits,DTS,2166.62,2166.62,0.0,Conciliado,2026-10-04,2026-10-06,2,Dentro de Política
+TX-100757,2026-10-12,Savory,Organized Trade,11124.09,11124.09,0.0,Conciliado,2026-10-12,2026-10-20,8,Dentro de Política
+TX-100758,2026-10-29,C&NB,DTS,21098.01,21098.01,0.0,Conciliado,2026-10-29,2026-11-07,9,Dentro de Política
+TX-100759,2026-10-09,Foods,Wholesale,38100.77,38100.77,0.0,Conciliado,2026-10-09,2026-10-16,7,Dentro de Política
+TX-100760,2026-10-19,C&NB,DTS,9798.22,9798.22,0.0,Conciliado,2026-10-19,2026-10-20,1,Dentro de Política
+TX-100761,2026-10-12,Biscuits,Wholesale,36129.68,36129.68,0.0,Conciliado,2026-10-12,2026-10-17,5,Dentro de Política
+TX-100762,2026-10-09,Biscuits,Wholesale,43413.21,43413.21,0.0,Conciliado,2026-10-09,2026-10-13,4,Dentro de Política
+TX-100763,2026-10-07,C&NB,C-Stores,22970.37,22970.37,0.0,Conciliado,2026-10-07,2026-10-08,1,Dentro de Política
+TX-100764,2026-10-28,C&NB,Away From Home,41160.88,41160.88,0.0,Conciliado,2026-10-28,2026-11-10,13,Excede Lead Time Máximo
+TX-100765,2026-10-14,Savory,Wholesale,27955.54,27955.54,0.0,Conciliado,2026-10-14,2026-10-27,13,Excede Lead Time Máximo
+TX-100766,2026-10-20,Biscuits,C-Stores,32036.0,32036.0,0.0,Conciliado,2026-10-20,2026-10-31,11,Excede Lead Time Máximo
+TX-100767,2026-10-19,Biscuits,Away From Home,26550.78,26550.78,0.0,Conciliado,2026-10-19,2026-10-21,2,Dentro de Política
+TX-100768,2026-10-26,C&NB,Wholesale,23427.05,23427.05,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100769,2026-10-15,Foods,Wholesale,12115.35,12115.35,0.0,Conciliado,2026-10-15,2026-10-23,8,Dentro de Política
+TX-100770,2026-10-16,Biscuits,DTS,15508.11,15508.11,0.0,Conciliado,2026-10-16,2026-10-25,9,Dentro de Política
+TX-100771,2026-10-21,Foods,DTS,14853.52,14853.52,0.0,Conciliado,2026-10-21,2026-10-30,9,Dentro de Política
+TX-100772,2026-10-05,C&NB,Away From Home,28382.8,28382.8,0.0,Conciliado,2026-10-05,2026-10-12,7,Dentro de Política
+TX-100773,2026-10-03,C&NB,Wholesale,6437.71,6437.71,0.0,Conciliado,2026-10-03,2026-10-04,1,Dentro de Política
+TX-100774,2026-10-12,Savory,Organized Trade,45881.19,45881.19,0.0,Conciliado,2026-10-12,2026-10-16,4,Dentro de Política
+TX-100775,2026-10-25,Biscuits,DTS,36172.43,36172.43,0.0,Conciliado,2026-10-25,2026-10-31,6,Dentro de Política
+TX-100776,2026-10-20,Foods,Away From Home,20371.56,20371.56,0.0,Conciliado,2026-10-20,2026-10-27,7,Dentro de Política
+TX-100777,2026-10-27,Savory,Wholesale,8351.9,8351.9,0.0,Conciliado,2026-10-27,2026-10-31,4,Dentro de Política
+TX-100778,2026-10-21,Biscuits,Wholesale,44158.61,44158.61,0.0,Conciliado,2026-10-21,2026-10-28,7,Dentro de Política
+TX-100779,2026-10-04,Savory,Organized Trade,41277.02,41277.02,0.0,Conciliado,2026-10-04,2026-10-08,4,Dentro de Política
+TX-100780,2026-10-21,C&NB,Away From Home,36225.22,36225.22,0.0,Conciliado,2026-10-21,2026-10-24,3,Dentro de Política
+TX-100781,2026-10-23,Biscuits,Wholesale,13941.58,13941.58,0.0,Conciliado,2026-10-23,2026-11-02,10,Dentro de Política
+TX-100782,2026-10-16,Savory,DTS,20421.11,20421.11,0.0,Conciliado,2026-10-16,2026-10-26,10,Dentro de Política
+TX-100783,2026-10-25,Savory,Organized Trade,5586.04,5865.342000000001,-279.3,Diferencia de Monto,2026-10-25,2026-11-09,15,Excede Lead Time Máximo
+TX-100784,2026-10-07,Foods,Away From Home,9857.46,9857.46,0.0,Conciliado,2026-10-07,2026-10-17,10,Dentro de Política
+TX-100785,2026-10-13,Savory,Organized Trade,39259.32,39259.32,0.0,Conciliado,2026-10-13,2026-10-21,8,Dentro de Política
+TX-100786,2026-10-21,Biscuits,DTS,35894.42,35894.42,0.0,Conciliado,2026-10-21,2026-10-28,7,Dentro de Política
+TX-100787,2026-10-10,Biscuits,Away From Home,29877.55,29877.55,0.0,Conciliado,2026-10-10,2026-10-12,2,Dentro de Política
+TX-100788,2026-10-26,Foods,Organized Trade,44838.47,44838.47,0.0,Conciliado,2026-10-26,2026-11-02,7,Dentro de Política
+TX-100789,2026-10-07,Biscuits,C-Stores,29371.69,29371.69,0.0,Conciliado,2026-10-07,2026-10-08,1,Dentro de Política
+TX-100790,2026-10-14,C&NB,DTS,23614.92,23614.92,0.0,Conciliado,2026-10-14,2026-10-16,2,Dentro de Política
+TX-100791,2026-10-26,Biscuits,DTS,17348.35,17348.35,0.0,Conciliado,2026-10-26,2026-11-10,15,Excede Lead Time Máximo
+TX-100792,2026-10-05,Biscuits,DTS,47052.2,47052.2,0.0,Conciliado,2026-10-05,2026-10-08,3,Dentro de Política
+TX-100793,2026-10-03,Savory,C-Stores,4594.42,4594.42,0.0,Conciliado,2026-10-03,2026-10-09,6,Dentro de Política
+TX-100794,2026-10-23,Savory,C-Stores,46578.92,46578.92,0.0,Conciliado,2026-10-23,2026-11-07,15,Excede Lead Time Máximo
+TX-100795,2026-10-29,Biscuits,Wholesale,41422.38,41422.38,0.0,Conciliado,2026-10-29,2026-11-11,13,Excede Lead Time Máximo
+TX-100796,2026-10-11,Foods,Organized Trade,6931.53,6931.53,0.0,Conciliado,2026-10-11,2026-10-12,1,Dentro de Política
+TX-100797,2026-10-11,Savory,Wholesale,28466.73,28466.73,0.0,Conciliado,2026-10-11,2026-10-24,13,Excede Lead Time Máximo
+TX-100798,2026-10-18,Foods,Organized Trade,43394.13,43394.13,0.0,Conciliado,2026-10-18,2026-10-23,5,Dentro de Política
+TX-100799,2026-10-15,Biscuits,C-Stores,28804.55,28804.55,0.0,Conciliado,2026-10-15,2026-10-18,3,Dentro de Política
+TX-100800,2026-10-12,Biscuits,C-Stores,45406.39,45406.39,0.0,Conciliado,2026-10-12,2026-10-22,10,Dentro de Política
+TX-100801,2026-10-09,C&NB,Wholesale,47177.7,47177.7,0.0,Conciliado,2026-10-09,2026-10-18,9,Dentro de Política
+TX-100802,2026-10-10,Savory,Away From Home,21408.03,21408.03,0.0,Conciliado,2026-10-10,2026-10-16,6,Dentro de Política
+TX-100803,2026-10-26,Biscuits,Wholesale,19177.03,19177.03,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100804,2026-10-12,C&NB,Organized Trade,46847.9,46847.9,0.0,Conciliado,2026-10-12,2026-10-19,7,Dentro de Política
+TX-100805,2026-10-17,Savory,Wholesale,33919.43,33919.43,0.0,Conciliado,2026-10-17,2026-11-01,15,Excede Lead Time Máximo
+TX-100806,2026-10-29,Biscuits,DTS,6243.12,6243.12,0.0,Conciliado,2026-10-29,2026-11-02,4,Dentro de Política
+TX-100807,2026-10-06,Biscuits,Organized Trade,2593.44,2593.44,0.0,Conciliado,2026-10-06,2026-10-14,8,Dentro de Política
+TX-100808,2026-10-07,Savory,Organized Trade,28449.14,28449.14,0.0,Conciliado,2026-10-07,2026-10-14,7,Dentro de Política
+TX-100809,2026-10-14,Savory,Away From Home,46543.46,46543.46,0.0,Conciliado,2026-10-14,2026-10-20,6,Dentro de Política
+TX-100810,2026-10-13,Savory,C-Stores,42290.31,42290.31,0.0,Conciliado,2026-10-13,2026-10-22,9,Dentro de Política
+TX-100811,2026-10-08,Biscuits,Organized Trade,33954.46,33954.46,0.0,Conciliado,2026-10-08,2026-10-22,14,Excede Lead Time Máximo
+TX-100812,2026-10-10,Biscuits,C-Stores,7386.23,7386.23,0.0,Conciliado,2026-10-10,2026-10-22,12,Excede Lead Time Máximo
+TX-100813,2026-10-09,C&NB,Wholesale,13084.45,13084.45,0.0,Conciliado,2026-10-09,2026-10-20,11,Excede Lead Time Máximo
+TX-100814,2026-10-18,Foods,DTS,43837.81,43837.81,0.0,Conciliado,2026-10-18,2026-10-31,13,Excede Lead Time Máximo
+TX-100815,2026-10-27,Savory,Away From Home,9548.96,9548.96,0.0,Conciliado,2026-10-27,2026-11-11,15,Excede Lead Time Máximo
+TX-100816,2026-10-26,Biscuits,C-Stores,14282.75,14282.75,0.0,Conciliado,2026-10-26,2026-10-28,2,Dentro de Política
+TX-100817,2026-10-02,Biscuits,Organized Trade,6915.23,6915.23,0.0,Conciliado,2026-10-02,2026-10-13,11,Excede Lead Time Máximo
+TX-100818,2026-10-05,Savory,C-Stores,33967.36,33967.36,0.0,Conciliado,2026-10-05,2026-10-06,1,Dentro de Política
+TX-100819,2026-10-29,Foods,Organized Trade,47227.12,47227.12,0.0,Conciliado,2026-10-29,2026-11-07,9,Dentro de Política
+TX-100820,2026-10-05,Savory,C-Stores,13813.92,13813.92,0.0,Conciliado,2026-10-05,2026-10-12,7,Dentro de Política
+TX-100821,2026-10-06,Foods,Organized Trade,24032.63,24032.63,0.0,Conciliado,2026-10-06,2026-10-15,9,Dentro de Política
+TX-100822,2026-10-19,Biscuits,Wholesale,31899.82,31899.82,0.0,Conciliado,2026-10-19,2026-10-24,5,Dentro de Política
+TX-100823,2026-10-08,Foods,Organized Trade,49973.58,49973.58,0.0,Conciliado,2026-10-08,2026-10-16,8,Dentro de Política
+TX-100824,2026-10-16,C&NB,Organized Trade,5688.0,5688.0,0.0,Conciliado,2026-10-16,2026-10-31,15,Excede Lead Time Máximo
+TX-100825,2026-10-13,Biscuits,DTS,25179.25,25179.25,0.0,Conciliado,2026-10-13,2026-10-16,3,Dentro de Política
+TX-100826,2026-10-01,C&NB,Organized Trade,19563.45,19563.45,0.0,Conciliado,2026-10-01,2026-10-08,7,Dentro de Política
+TX-100827,2026-10-22,Savory,DTS,43358.1,45526.005,-2167.9,Diferencia de Monto,2026-10-22,2026-10-29,7,Dentro de Política
+TX-100828,2026-10-20,Savory,Away From Home,24060.4,25263.420000000002,-1203.02,Diferencia de Monto,2026-10-20,2026-10-26,6,Dentro de Política
+TX-100829,2026-10-17,Savory,DTS,5993.39,5993.39,0.0,Conciliado,2026-10-17,2026-10-25,8,Dentro de Política
+TX-100830,2026-10-07,Foods,Wholesale,31904.0,31904.0,0.0,Conciliado,2026-10-07,2026-10-09,2,Dentro de Política
+TX-100831,2026-10-25,Biscuits,DTS,38653.64,38653.64,0.0,Conciliado,2026-10-25,2026-10-27,2,Dentro de Política
+TX-100832,2026-10-13,Savory,Away From Home,642.62,642.62,0.0,Conciliado,2026-10-13,2026-10-23,10,Dentro de Política
+TX-100833,2026-10-04,Savory,Wholesale,43018.36,43018.36,0.0,Conciliado,2026-10-04,2026-10-08,4,Dentro de Política
+TX-100834,2026-10-04,Biscuits,C-Stores,9708.14,9708.14,0.0,Conciliado,2026-10-04,2026-10-18,14,Excede Lead Time Máximo
+TX-100835,2026-10-06,Savory,C-Stores,27827.43,27827.43,0.0,Conciliado,2026-10-06,2026-10-20,14,Excede Lead Time Máximo
+TX-100836,2026-10-28,C&NB,DTS,21081.98,21081.98,0.0,Conciliado,2026-10-28,2026-10-30,2,Dentro de Política
+TX-100837,2026-10-19,Biscuits,DTS,36122.86,36122.86,0.0,Conciliado,2026-10-19,2026-10-27,8,Dentro de Política
+TX-100838,2026-10-29,Biscuits,Away From Home,18872.5,18872.5,0.0,Conciliado,2026-10-29,2026-11-12,14,Excede Lead Time Máximo
+TX-100839,2026-10-12,Biscuits,Away From Home,43553.28,43553.28,0.0,Conciliado,2026-10-12,2026-10-23,11,Excede Lead Time Máximo
+TX-100840,2026-10-22,C&NB,Organized Trade,36659.57,36659.57,0.0,Conciliado,2026-10-22,2026-11-02,11,Excede Lead Time Máximo
+TX-100841,2026-10-07,Biscuits,Away From Home,32561.8,32561.8,0.0,Conciliado,2026-10-07,2026-10-12,5,Dentro de Política
+TX-100842,2026-10-27,C&NB,Organized Trade,39913.91,39913.91,0.0,Conciliado,2026-10-27,2026-11-11,15,Excede Lead Time Máximo
+TX-100843,2026-10-10,Biscuits,Wholesale,37824.14,37824.14,0.0,Conciliado,2026-10-10,2026-10-25,15,Excede Lead Time Máximo
+TX-100844,2026-10-26,Foods,DTS,2278.96,2278.96,0.0,Conciliado,2026-10-26,2026-11-02,7,Dentro de Política
+TX-100845,2026-10-19,Savory,Wholesale,20039.35,20039.35,0.0,Conciliado,2026-10-19,2026-10-28,9,Dentro de Política
+TX-100846,2026-10-07,Foods,Away From Home,46574.96,46574.96,0.0,Conciliado,2026-10-07,2026-10-17,10,Dentro de Política
+TX-100847,2026-10-30,Savory,Wholesale,6723.35,6723.35,0.0,Conciliado,2026-10-30,2026-11-02,3,Dentro de Política
+TX-100848,2026-10-03,C&NB,Wholesale,36986.28,36986.28,0.0,Conciliado,2026-10-03,2026-10-10,7,Dentro de Política
+TX-100849,2026-10-13,Foods,Wholesale,48742.29,48742.29,0.0,Conciliado,2026-10-13,2026-10-20,7,Dentro de Política
+TX-100850,2026-10-13,Biscuits,Away From Home,3083.83,3083.83,0.0,Conciliado,2026-10-13,2026-10-24,11,Excede Lead Time Máximo
+TX-100851,2026-10-18,Savory,Wholesale,34268.6,34268.6,0.0,Conciliado,2026-10-18,2026-10-20,2,Dentro de Política
+TX-100852,2026-10-28,Savory,Organized Trade,23673.63,23673.63,0.0,Conciliado,2026-10-28,2026-11-04,7,Dentro de Política
+TX-100853,2026-10-30,Foods,Away From Home,29169.18,29169.18,0.0,Conciliado,2026-10-30,2026-11-10,11,Excede Lead Time Máximo
+TX-100854,2026-10-26,C&NB,Wholesale,4724.4,4724.4,0.0,Conciliado,2026-10-26,2026-11-04,9,Dentro de Política
+TX-100855,2026-10-20,Foods,Away From Home,2628.84,2628.84,0.0,Conciliado,2026-10-20,2026-10-27,7,Dentro de Política
+TX-100856,2026-10-28,C&NB,C-Stores,33509.9,33509.9,0.0,Conciliado,2026-10-28,2026-11-01,4,Dentro de Política
+TX-100857,2026-10-08,C&NB,Organized Trade,41253.82,41253.82,0.0,Conciliado,2026-10-08,2026-10-17,9,Dentro de Política
+TX-100858,2026-10-29,Savory,Wholesale,39209.76,39209.76,0.0,Conciliado,2026-10-29,2026-11-13,15,Excede Lead Time Máximo
+TX-100859,2026-10-09,Foods,C-Stores,27418.38,27418.38,0.0,Conciliado,2026-10-09,2026-10-22,13,Excede Lead Time Máximo
+TX-100860,2026-10-07,Foods,C-Stores,5443.41,5443.41,0.0,Conciliado,2026-10-07,2026-10-15,8,Dentro de Política
+TX-100861,2026-10-01,C&NB,Away From Home,34558.2,34558.2,0.0,Conciliado,2026-10-01,2026-10-04,3,Dentro de Política
+TX-100862,2026-10-03,Foods,C-Stores,12473.5,12473.5,0.0,Conciliado,2026-10-03,2026-10-16,13,Excede Lead Time Máximo
+TX-100863,2026-10-13,Biscuits,Organized Trade,45597.9,45597.9,0.0,Conciliado,2026-10-13,2026-10-21,8,Dentro de Política
+TX-100864,2026-10-28,Biscuits,Organized Trade,41994.14,41994.14,0.0,Conciliado,2026-10-28,2026-11-11,14,Excede Lead Time Máximo
+TX-100865,2026-10-30,Foods,DTS,35614.46,35614.46,0.0,Conciliado,2026-10-30,2026-11-13,14,Excede Lead Time Máximo
+TX-100866,2026-10-25,Foods,Organized Trade,47467.87,49841.26350000001,-2373.39,Diferencia de Monto,2026-10-25,2026-10-27,2,Dentro de Política
+TX-100867,2026-10-28,C&NB,C-Stores,2055.38,2055.38,0.0,Conciliado,2026-10-28,2026-11-06,9,Dentro de Política
+TX-100868,2026-10-17,Biscuits,Organized Trade,36941.92,36941.92,0.0,Conciliado,2026-10-17,2026-10-22,5,Dentro de Política
+TX-100869,2026-10-25,Biscuits,Away From Home,16847.02,16847.02,0.0,Conciliado,2026-10-25,2026-11-02,8,Dentro de Política
+TX-100870,2026-10-24,Savory,DTS,45350.26,45350.26,0.0,Conciliado,2026-10-24,2026-10-29,5,Dentro de Política
+TX-100871,2026-10-01,C&NB,C-Stores,13700.42,13700.42,0.0,Conciliado,2026-10-01,2026-10-16,15,Excede Lead Time Máximo
+TX-100872,2026-10-06,Savory,DTS,36380.4,36380.4,0.0,Conciliado,2026-10-06,2026-10-10,4,Dentro de Política
+TX-100873,2026-10-21,Biscuits,C-Stores,43943.53,43943.53,0.0,Conciliado,2026-10-21,2026-11-02,12,Excede Lead Time Máximo
+TX-100874,2026-10-06,C&NB,Away From Home,2562.01,2562.01,0.0,Conciliado,2026-10-06,2026-10-13,7,Dentro de Política
+TX-100875,2026-10-26,Foods,DTS,20183.56,20183.56,0.0,Conciliado,2026-10-26,2026-11-10,15,Excede Lead Time Máximo
+TX-100876,2026-10-12,C&NB,Wholesale,38234.3,38234.3,0.0,Conciliado,2026-10-12,2026-10-25,13,Excede Lead Time Máximo
+TX-100877,2026-10-13,Foods,C-Stores,23018.49,23018.49,0.0,Conciliado,2026-10-13,2026-10-21,8,Dentro de Política
+TX-100878,2026-10-13,Foods,Wholesale,13729.01,13729.01,0.0,Conciliado,2026-10-13,2026-10-18,5,Dentro de Política
+TX-100879,2026-10-29,C&NB,DTS,11380.36,11380.36,0.0,Conciliado,2026-10-29,2026-11-06,8,Dentro de Política
+TX-100880,2026-10-15,Foods,Wholesale,7010.15,7010.15,0.0,Conciliado,2026-10-15,2026-10-21,6,Dentro de Política
+TX-100881,2026-10-21,Savory,Wholesale,42927.91,42927.91,0.0,Conciliado,2026-10-21,2026-11-05,15,Excede Lead Time Máximo
+TX-100882,2026-10-16,Biscuits,DTS,28980.09,28980.09,0.0,Conciliado,2026-10-16,2026-10-19,3,Dentro de Política
+TX-100883,2026-10-22,Foods,Away From Home,4281.05,4281.05,0.0,Conciliado,2026-10-22,2026-11-03,12,Excede Lead Time Máximo
+TX-100884,2026-10-21,Savory,Wholesale,19437.73,19437.73,0.0,Conciliado,2026-10-21,2026-10-23,2,Dentro de Política
+TX-100885,2026-10-11,Foods,Wholesale,18702.82,18702.82,0.0,Conciliado,2026-10-11,2026-10-15,4,Dentro de Política
+TX-100886,2026-10-28,Biscuits,Away From Home,9496.09,9496.09,0.0,Conciliado,2026-10-28,2026-10-31,3,Dentro de Política
+TX-100887,2026-10-05,Savory,Wholesale,22057.63,22057.63,0.0,Conciliado,2026-10-05,2026-10-15,10,Dentro de Política
+TX-100888,2026-10-04,Biscuits,Wholesale,16938.92,16938.92,0.0,Conciliado,2026-10-04,2026-10-15,11,Excede Lead Time Máximo
+TX-100889,2026-10-03,Biscuits,Wholesale,17419.28,17419.28,0.0,Conciliado,2026-10-03,2026-10-04,1,Dentro de Política
+TX-100890,2026-10-19,Savory,Organized Trade,37081.81,37081.81,0.0,Conciliado,2026-10-19,2026-10-24,5,Dentro de Política
+TX-100891,2026-10-20,Savory,Away From Home,11551.54,11551.54,0.0,Conciliado,2026-10-20,2026-10-28,8,Dentro de Política
+TX-100892,2026-10-25,Savory,Wholesale,32272.07,32272.07,0.0,Conciliado,2026-10-25,2026-11-05,11,Excede Lead Time Máximo
+TX-100893,2026-10-18,C&NB,Away From Home,28747.16,28747.16,0.0,Conciliado,2026-10-18,2026-11-01,14,Excede Lead Time Máximo
+TX-100894,2026-10-15,Savory,C-Stores,28620.58,28620.58,0.0,Conciliado,2026-10-15,2026-10-26,11,Excede Lead Time Máximo
+TX-100895,2026-10-09,Savory,C-Stores,33318.86,33318.86,0.0,Conciliado,2026-10-09,2026-10-12,3,Dentro de Política
+TX-100896,2026-10-17,Savory,Wholesale,27644.91,27644.91,0.0,Conciliado,2026-10-17,2026-10-26,9,Dentro de Política
+TX-100897,2026-10-14,Savory,Away From Home,44023.13,44023.13,0.0,Conciliado,2026-10-14,2026-10-15,1,Dentro de Política
+TX-100898,2026-10-15,Foods,Away From Home,33941.21,33941.21,0.0,Conciliado,2026-10-15,2026-10-18,3,Dentro de Política
+TX-100899,2026-10-01,C&NB,Away From Home,27574.68,27574.68,0.0,Conciliado,2026-10-01,2026-10-09,8,Dentro de Política
+TX-100900,2026-10-21,Biscuits,Organized Trade,41573.27,41573.27,0.0,Conciliado,2026-10-21,2026-10-22,1,Dentro de Política
+TX-100901,2026-10-22,Savory,C-Stores,30504.25,30504.25,0.0,Conciliado,2026-10-22,2026-10-27,5,Dentro de Política
+TX-100902,2026-10-22,Foods,Away From Home,14911.64,14911.64,0.0,Conciliado,2026-10-22,2026-11-03,12,Excede Lead Time Máximo
+TX-100903,2026-10-03,Foods,Away From Home,10751.2,10751.2,0.0,Conciliado,2026-10-03,2026-10-16,13,Excede Lead Time Máximo
+TX-100904,2026-10-16,Foods,Organized Trade,8040.23,8040.23,0.0,Conciliado,2026-10-16,2026-10-17,1,Dentro de Política
+TX-100905,2026-10-23,Biscuits,Organized Trade,45023.03,45023.03,0.0,Conciliado,2026-10-23,2026-10-29,6,Dentro de Política
+TX-100906,2026-10-25,Savory,Away From Home,35651.7,35651.7,0.0,Conciliado,2026-10-25,2026-11-01,7,Dentro de Política
+TX-100907,2026-10-11,C&NB,DTS,46900.23,46900.23,0.0,Conciliado,2026-10-11,2026-10-23,12,Excede Lead Time Máximo
+TX-100908,2026-10-12,C&NB,Away From Home,30362.94,30362.94,0.0,Conciliado,2026-10-12,2026-10-17,5,Dentro de Política
+TX-100909,2026-10-10,Foods,Away From Home,23933.34,23933.34,0.0,Conciliado,2026-10-10,2026-10-11,1,Dentro de Política
+TX-100910,2026-10-16,Biscuits,Organized Trade,3455.97,3455.97,0.0,Conciliado,2026-10-16,2026-10-26,10,Dentro de Política
+TX-100911,2026-10-08,Biscuits,Organized Trade,33746.29,33746.29,0.0,Conciliado,2026-10-08,2026-10-10,2,Dentro de Política
+TX-100912,2026-10-06,Biscuits,Away From Home,29319.33,29319.33,0.0,Conciliado,2026-10-06,2026-10-12,6,Dentro de Política
+TX-100913,2026-10-12,C&NB,Away From Home,49515.34,49515.34,0.0,Conciliado,2026-10-12,2026-10-21,9,Dentro de Política
+TX-100914,2026-10-24,Foods,Away From Home,12338.36,12338.36,0.0,Conciliado,2026-10-24,2026-11-07,14,Excede Lead Time Máximo
+TX-100915,2026-10-28,Savory,Organized Trade,26771.5,26771.5,0.0,Conciliado,2026-10-28,2026-11-05,8,Dentro de Política
+TX-100916,2026-10-21,C&NB,Away From Home,32722.39,32722.39,0.0,Conciliado,2026-10-21,2026-11-05,15,Excede Lead Time Máximo
+TX-100917,2026-10-08,Foods,Away From Home,32407.26,32407.26,0.0,Conciliado,2026-10-08,2026-10-16,8,Dentro de Política
+TX-100918,2026-10-26,Foods,Wholesale,28284.03,28284.03,0.0,Conciliado,2026-10-26,2026-11-01,6,Dentro de Política
+TX-100919,2026-10-28,Savory,DTS,38957.94,38957.94,0.0,Conciliado,2026-10-28,2026-11-05,8,Dentro de Política
+TX-100920,2026-10-04,Savory,C-Stores,10646.57,10646.57,0.0,Conciliado,2026-10-04,2026-10-07,3,Dentro de Política
+TX-100921,2026-10-26,Savory,DTS,36418.55,36418.55,0.0,Conciliado,2026-10-26,2026-10-27,1,Dentro de Política
+TX-100922,2026-10-08,Biscuits,Wholesale,31176.86,31176.86,0.0,Conciliado,2026-10-08,2026-10-18,10,Dentro de Política
+TX-100923,2026-10-26,Savory,C-Stores,44855.72,44855.72,0.0,Conciliado,2026-10-26,2026-10-29,3,Dentro de Política
+TX-100924,2026-10-28,Foods,Away From Home,42436.12,42436.12,0.0,Conciliado,2026-10-28,2026-11-06,9,Dentro de Política
+TX-100925,2026-10-18,Savory,Wholesale,16099.78,16099.78,0.0,Conciliado,2026-10-18,2026-10-26,8,Dentro de Política
+TX-100926,2026-10-28,Foods,Away From Home,14173.75,14173.75,0.0,Conciliado,2026-10-28,2026-11-01,4,Dentro de Política
+TX-100927,2026-10-28,C&NB,Organized Trade,49091.84,49091.84,0.0,Conciliado,2026-10-28,2026-11-03,6,Dentro de Política
+TX-100928,2026-10-05,Biscuits,Wholesale,26599.63,26599.63,0.0,Conciliado,2026-10-05,2026-10-15,10,Dentro de Política
+TX-100929,2026-10-09,C&NB,Organized Trade,45367.84,45367.84,0.0,Conciliado,2026-10-09,2026-10-13,4,Dentro de Política
+TX-100930,2026-10-04,C&NB,Wholesale,8612.11,8612.11,0.0,Conciliado,2026-10-04,2026-10-10,6,Dentro de Política
+TX-100931,2026-10-27,Foods,Wholesale,32319.54,32319.54,0.0,Conciliado,2026-10-27,2026-11-04,8,Dentro de Política
+TX-100932,2026-10-22,C&NB,Organized Trade,40588.08,40588.08,0.0,Conciliado,2026-10-22,2026-10-31,9,Dentro de Política
+TX-100933,2026-10-17,Foods,C-Stores,47396.06,47396.06,0.0,Conciliado,2026-10-17,2026-10-18,1,Dentro de Política
+TX-100934,2026-10-09,Savory,DTS,17198.34,17198.34,0.0,Conciliado,2026-10-09,2026-10-16,7,Dentro de Política
+TX-100935,2026-10-01,Savory,Away From Home,36386.57,36386.57,0.0,Conciliado,2026-10-01,2026-10-06,5,Dentro de Política
+TX-100936,2026-10-21,Foods,Wholesale,27171.24,27171.24,0.0,Conciliado,2026-10-21,2026-10-23,2,Dentro de Política
+TX-100937,2026-10-20,Savory,Away From Home,3501.13,3501.13,0.0,Conciliado,2026-10-20,2026-11-04,15,Excede Lead Time Máximo
+TX-100938,2026-10-13,Biscuits,Organized Trade,34654.99,34654.99,0.0,Conciliado,2026-10-13,2026-10-19,6,Dentro de Política
+TX-100939,2026-10-28,C&NB,Away From Home,34659.78,34659.78,0.0,Conciliado,2026-10-28,2026-10-31,3,Dentro de Política
+TX-100940,2026-10-16,Biscuits,Organized Trade,46565.04,46565.04,0.0,Conciliado,2026-10-16,2026-10-26,10,Dentro de Política
+TX-100941,2026-10-29,C&NB,Away From Home,25116.97,25116.97,0.0,Conciliado,2026-10-29,2026-11-13,15,Excede Lead Time Máximo
+TX-100942,2026-10-13,Savory,DTS,11897.42,11897.42,0.0,Conciliado,2026-10-13,2026-10-19,6,Dentro de Política
+TX-100943,2026-10-14,Biscuits,DTS,2705.91,2705.91,0.0,Conciliado,2026-10-14,2026-10-23,9,Dentro de Política
+TX-100944,2026-10-03,Savory,DTS,21074.29,21074.29,0.0,Conciliado,2026-10-03,2026-10-13,10,Dentro de Política
+TX-100945,2026-10-29,C&NB,DTS,15444.88,15444.88,0.0,Conciliado,2026-10-29,2026-11-02,4,Dentro de Política
+TX-100946,2026-10-06,Foods,DTS,38173.87,38173.87,0.0,Conciliado,2026-10-06,2026-10-10,4,Dentro de Política
+TX-100947,2026-10-18,Foods,DTS,18036.25,18036.25,0.0,Conciliado,2026-10-18,2026-10-22,4,Dentro de Política
+TX-100948,2026-10-19,Biscuits,Organized Trade,47479.02,47479.02,0.0,Conciliado,2026-10-19,2026-10-25,6,Dentro de Política
+TX-100949,2026-10-05,Savory,Wholesale,48134.36,48134.36,0.0,Conciliado,2026-10-05,2026-10-11,6,Dentro de Política
+TX-100950,2026-10-15,Savory,Away From Home,31234.98,31234.98,0.0,Conciliado,2026-10-15,2026-10-25,10,Dentro de Política
+TX-100951,2026-10-25,Biscuits,DTS,46468.68,46468.68,0.0,Conciliado,2026-10-25,2026-11-06,12,Excede Lead Time Máximo
+TX-100952,2026-10-02,Foods,Organized Trade,38162.29,38162.29,0.0,Conciliado,2026-10-02,2026-10-12,10,Dentro de Política
+TX-100953,2026-10-10,C&NB,Organized Trade,27569.55,27569.55,0.0,Conciliado,2026-10-10,2026-10-14,4,Dentro de Política
+TX-100954,2026-10-24,Biscuits,Organized Trade,9425.24,9425.24,0.0,Conciliado,2026-10-24,2026-11-08,15,Excede Lead Time Máximo
+TX-100955,2026-10-30,C&NB,Wholesale,23200.6,24360.63,-1160.03,Diferencia de Monto,2026-10-30,2026-11-03,4,Dentro de Política
+TX-100956,2026-10-18,Foods,Away From Home,28263.29,28263.29,0.0,Conciliado,2026-10-18,2026-10-25,7,Dentro de Política
+TX-100957,2026-10-27,Savory,Wholesale,43266.1,43266.1,0.0,Conciliado,2026-10-27,2026-10-30,3,Dentro de Política
+TX-100958,2026-10-13,Foods,C-Stores,24326.0,24326.0,0.0,Conciliado,2026-10-13,2026-10-16,3,Dentro de Política
+TX-100959,2026-10-05,Biscuits,Organized Trade,44934.9,44934.9,0.0,Conciliado,2026-10-05,2026-10-17,12,Excede Lead Time Máximo
+TX-100960,2026-10-23,Savory,C-Stores,33880.27,33880.27,0.0,Conciliado,2026-10-23,2026-10-28,5,Dentro de Política
+TX-100961,2026-10-24,Biscuits,DTS,7281.45,7281.45,0.0,Conciliado,2026-10-24,2026-11-05,12,Excede Lead Time Máximo
+TX-100962,2026-10-01,Biscuits,DTS,49751.58,49751.58,0.0,Conciliado,2026-10-01,2026-10-02,1,Dentro de Política
+TX-100963,2026-10-22,Foods,Wholesale,26598.02,26598.02,0.0,Conciliado,2026-10-22,2026-11-04,13,Excede Lead Time Máximo
+TX-100964,2026-10-01,Biscuits,Away From Home,19896.99,19896.99,0.0,Conciliado,2026-10-01,2026-10-12,11,Excede Lead Time Máximo
+TX-100965,2026-10-18,Foods,C-Stores,33126.13,33126.13,0.0,Conciliado,2026-10-18,2026-10-29,11,Excede Lead Time Máximo
+TX-100966,2026-10-15,Savory,Away From Home,5890.22,5890.22,0.0,Conciliado,2026-10-15,2026-10-26,11,Excede Lead Time Máximo
+TX-100967,2026-10-17,Foods,Wholesale,32008.66,32008.66,0.0,Conciliado,2026-10-17,2026-10-30,13,Excede Lead Time Máximo
+TX-100968,2026-10-11,Savory,DTS,25162.68,25162.68,0.0,Conciliado,2026-10-11,2026-10-26,15,Excede Lead Time Máximo
+TX-100969,2026-10-21,Foods,Away From Home,20630.37,20630.37,0.0,Conciliado,2026-10-21,2026-11-01,11,Excede Lead Time Máximo
+TX-100970,2026-10-26,C&NB,Away From Home,47674.49,47674.49,0.0,Conciliado,2026-10-26,2026-11-02,7,Dentro de Política
+TX-100971,2026-10-25,C&NB,DTS,26365.72,26365.72,0.0,Conciliado,2026-10-25,2026-11-09,15,Excede Lead Time Máximo
+TX-100972,2026-10-22,Biscuits,C-Stores,11346.32,,11346.32,Falta en Synapse,2026-10-22,2026-10-25,3,Dentro de Política
+TX-100973,2026-10-27,Foods,DTS,23218.69,23218.69,0.0,Conciliado,2026-10-27,2026-11-04,8,Dentro de Política
+TX-100974,2026-10-27,Foods,Away From Home,46009.68,46009.68,0.0,Conciliado,2026-10-27,2026-10-31,4,Dentro de Política
+TX-100975,2026-10-17,Savory,C-Stores,9216.73,9216.73,0.0,Conciliado,2026-10-17,2026-10-19,2,Dentro de Política
+TX-100976,2026-10-13,Biscuits,C-Stores,11090.87,11090.87,0.0,Conciliado,2026-10-13,2026-10-21,8,Dentro de Política
+TX-100977,2026-10-01,Foods,DTS,1144.96,1144.96,0.0,Conciliado,2026-10-01,2026-10-16,15,Excede Lead Time Máximo
+TX-100978,2026-10-02,Biscuits,Away From Home,1202.41,1202.41,0.0,Conciliado,2026-10-02,2026-10-03,1,Dentro de Política
+TX-100979,2026-10-09,C&NB,Wholesale,41554.89,41554.89,0.0,Conciliado,2026-10-09,2026-10-17,8,Dentro de Política
+TX-100980,2026-10-03,Foods,Away From Home,36740.07,36740.07,0.0,Conciliado,2026-10-03,2026-10-04,1,Dentro de Política
+TX-100981,2026-10-01,Foods,Organized Trade,18074.53,18074.53,0.0,Conciliado,2026-10-01,2026-10-11,10,Dentro de Política
+TX-100982,2026-10-21,Biscuits,Wholesale,35066.4,35066.4,0.0,Conciliado,2026-10-21,2026-10-26,5,Dentro de Política
+TX-100983,2026-10-16,Foods,C-Stores,20062.69,20062.69,0.0,Conciliado,2026-10-16,2026-10-17,1,Dentro de Política
+TX-100984,2026-10-23,Biscuits,Wholesale,47668.39,47668.39,0.0,Conciliado,2026-10-23,2026-11-02,10,Dentro de Política
+TX-100985,2026-10-06,Foods,C-Stores,48369.11,48369.11,0.0,Conciliado,2026-10-06,2026-10-14,8,Dentro de Política
+TX-100986,2026-10-28,Savory,C-Stores,19943.29,19943.29,0.0,Conciliado,2026-10-28,2026-11-01,4,Dentro de Política
+TX-100987,2026-10-17,Biscuits,Wholesale,42783.98,42783.98,0.0,Conciliado,2026-10-17,2026-10-25,8,Dentro de Política
+TX-100988,2026-10-05,Foods,C-Stores,38767.91,38767.91,0.0,Conciliado,2026-10-05,2026-10-18,13,Excede Lead Time Máximo
+TX-100989,2026-10-05,C&NB,C-Stores,15845.0,15845.0,0.0,Conciliado,2026-10-05,2026-10-06,1,Dentro de Política
+TX-100990,2026-10-06,Foods,Organized Trade,11985.97,11985.97,0.0,Conciliado,2026-10-06,2026-10-21,15,Excede Lead Time Máximo
+TX-100991,2026-10-03,C&NB,Away From Home,23182.62,23182.62,0.0,Conciliado,2026-10-03,2026-10-05,2,Dentro de Política
+TX-100992,2026-10-21,C&NB,Away From Home,39176.77,39176.77,0.0,Conciliado,2026-10-21,2026-11-04,14,Excede Lead Time Máximo
+TX-100993,2026-10-23,Savory,Organized Trade,48028.31,48028.31,0.0,Conciliado,2026-10-23,2026-10-27,4,Dentro de Política
+TX-100994,2026-10-05,Biscuits,Wholesale,38297.16,38297.16,0.0,Conciliado,2026-10-05,2026-10-15,10,Dentro de Política
+TX-100995,2026-10-21,Foods,DTS,42832.75,42832.75,0.0,Conciliado,2026-10-21,2026-10-22,1,Dentro de Política
+TX-100996,2026-10-05,Savory,DTS,30351.68,30351.68,0.0,Conciliado,2026-10-05,2026-10-13,8,Dentro de Política
+TX-100997,2026-10-10,Foods,DTS,41852.69,41852.69,0.0,Conciliado,2026-10-10,2026-10-16,6,Dentro de Política
+TX-100998,2026-10-10,C&NB,Organized Trade,39328.83,39328.83,0.0,Conciliado,2026-10-10,2026-10-23,13,Excede Lead Time Máximo
+TX-100999,2026-10-19,Biscuits,Organized Trade,19160.78,19160.78,0.0,Conciliado,2026-10-19,2026-10-26,7,Dentro de Política
